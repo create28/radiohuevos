@@ -1,0 +1,15 @@
+{
+  "name": "eggs-fm",
+  "version": "1.0.0",
+  "description": "EGGS FM - Curated playlist collection",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build step required for static site'",
+    "start": "echo 'Static site - open index.html'"
+  },
+  "keywords": ["music", "playlists", "spotify", "eggs-fm"],
+  "author": "Chris Milne",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}

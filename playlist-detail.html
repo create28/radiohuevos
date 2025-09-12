@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playlist Details - Radio Huevos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        'sans': ['Inter', 'system-ui', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-50 font-sans">
+    <div class="min-h-screen flex flex-col">
+        <!-- Header -->
+        <header class="bg-white border-b border-gray-200">
+            <div class="max-w-4xl mx-auto px-4 py-6">
+                <a href="index.html" class="inline-flex items-center text-gray-600 hover:text-gray-900 mb-4">
+                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
+                    </svg>
+                    Back to Playlists
+                </a>
+                <h1 class="text-2xl font-bold text-gray-900" id="playlistTitle">Loading...</h1>
+                <p class="text-gray-600 mt-2" id="playlistDescription">Please wait...</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="flex-1 py-8">
+            <div class="max-w-4xl mx-auto px-4">
+                <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                    <!-- Stats -->
+                    <div class="flex justify-between items-center mb-6 p-4 bg-gray-50 rounded-lg" id="playlistStats">
+                        <!-- Stats will be populated by JavaScript -->
+                    </div>
+                    
+                    <!-- Spotify Player -->
+                    <div>
+                        <h3 class="text-lg font-semibold text-gray-900 mb-4">Listen on Spotify</h3>
+                        <iframe 
+                            id="spotifyEmbed"
+                            class="w-full h-96 rounded-lg"
+                            src=""
+                            frameborder="0" 
+                            allowtransparency="true" 
+                            allow="encrypted-media">
+                        </iframe>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="bg-white border-t border-gray-200 py-6">
+            <div class="max-w-4xl mx-auto px-4 text-center text-gray-500 text-sm">
+                <p>&copy; 2025 Radio Huevos</p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        // Load playlist details when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            const playlistId = new URLSearchParams(window.location.search).get('id');
+            
+            if (!playlistId) {
+                // No playlist ID provided, redirect to main page
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            const playlist = window.EGGSRadio.getPlaylistById(playlistId);
+            
+            if (!playlist) {
+                // Playlist not found, redirect to main page
+                window.location.href = 'index.html';
+                return;
+            }
+            
+            // Update page title
+            document.title = `${playlist.title} - EGGS Radio`;
+            
+            // Update header content
+            document.getElementById('playlistTitle').textContent = playlist.title;
+            document.getElementById('playlistDescription').textContent = playlist.description;
+            
+            // Update stats
+            const statsHtml = `
+                <div class="text-center">
+                    <div class="text-2xl font-bold text-gray-900">${playlist.songCount}</div>
+                    <div class="text-sm text-gray-600">Songs</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-2xl font-bold text-gray-900">${window.EGGSRadio.formatDuration(playlist.duration)}</div>
+                    <div class="text-sm text-gray-600">Duration</div>
+                </div>
+            `;
+            document.getElementById('playlistStats').innerHTML = statsHtml;
+            
+            // Update Spotify embed
+            const spotifyEmbed = document.getElementById('spotifyEmbed');
+            spotifyEmbed.src = `https://open.spotify.com/embed/playlist/${playlist.spotifyId}?utm_source=generator&theme=0`;
+        });
+    </script>
+</body>
+</html>
