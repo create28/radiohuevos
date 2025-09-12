@@ -78,15 +78,13 @@ function getThemedFallbackImage(playlistTitle) {
 
 // Create playlist card HTML
 function createPlaylistCard(playlist) {
-    // Use real cover image if available, otherwise use themed fallback
-    const coverImage = playlist.coverImage && !playlist.coverImage.includes('REPLACE_WITH_REAL_COVER_URL') 
-        ? playlist.coverImage 
-        : getThemedFallbackImage(playlist.title);
+    // Always use themed fallback for now since we have placeholder URLs
+    const coverImage = getThemedFallbackImage(playlist.title);
     
     return `
         <a href="playlist-detail.html?id=${playlist.id}" class="group bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow duration-200 overflow-hidden border border-gray-200">
             <div class="aspect-square overflow-hidden">
-                <img src="${coverImage}" alt="${playlist.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200" onerror="this.src='${getThemedFallbackImage(playlist.title)}'">
+                <img src="${coverImage}" alt="${playlist.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-200">
             </div>
             <div class="p-4">
                 <h3 class="font-semibold text-gray-900 text-lg mb-2 line-clamp-2">${playlist.title}</h3>
@@ -106,8 +104,12 @@ function createPlaylistCard(playlist) {
 // Render all playlist cards
 function renderPlaylists() {
     const grid = document.getElementById('playlistsGrid');
-    if (!grid) return;
+    if (!grid) {
+        console.error('Could not find playlistsGrid element');
+        return;
+    }
     
+    console.log('Rendering playlists:', playlists.length);
     grid.innerHTML = playlists.map(playlist => createPlaylistCard(playlist)).join('');
 }
 
@@ -124,15 +126,19 @@ function getUrlParameter(name) {
 
 // Initialize the page
 document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM loaded, initializing Radio Huevos');
+    
     // Check if we're on the detail page
     const playlistId = getUrlParameter('id');
     
     if (playlistId && window.location.pathname.includes('playlist-detail.html')) {
+        console.log('On detail page, skipping main page rendering');
         // This is a detail page - the detail page will handle its own rendering
         return;
     }
     
     // This is the main page - render playlists
+    console.log('On main page, rendering playlists');
     renderPlaylists();
 });
 
