@@ -9,6 +9,10 @@
   ],
   "routes": [
     {
+      "src": "/script.js",
+      "dest": "/script.js"
+    },
+    {
       "src": "/playlist-detail.html",
       "dest": "/playlist-detail.html"
     },
