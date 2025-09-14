@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Playlist Details - Radio Huevos</title>
+    <title>Playlist Details - EGGS Radio</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {
@@ -11,44 +11,70 @@
                 extend: {
                     fontFamily: {
                         'sans': ['Inter', 'system-ui', 'sans-serif'],
+                    },
+                    colors: {
+                        'eggs-dark': '#1a1a1a',
+                        'eggs-gray': '#2d2d2d',
+                        'eggs-light': '#f8f9fa',
+                        'eggs-accent': '#6366f1',
                     }
                 }
             }
         }
     </script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        .line-clamp-2 {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .line-clamp-3 {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .gradient-text {
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+    </style>
 </head>
-<body class="bg-gray-50 font-sans">
+<body class="bg-eggs-dark text-white font-sans">
     <div class="min-h-screen flex flex-col">
         <!-- Header -->
-        <header class="bg-white border-b border-gray-200">
-            <div class="max-w-4xl mx-auto px-4 py-6">
-                <a href="index.html" class="inline-flex items-center text-gray-600 hover:text-gray-900 mb-4">
-                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <header class="bg-eggs-dark border-b border-eggs-gray">
+            <div class="max-w-6xl mx-auto px-6 py-8">
+                <a href="index.html" class="inline-flex items-center text-gray-300 hover:text-white mb-6 transition-colors">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                     </svg>
                     Back to Playlists
                 </a>
-                <h1 class="text-2xl font-bold text-gray-900" id="playlistTitle">Loading...</h1>
-                <p class="text-gray-600 mt-2" id="playlistDescription">Please wait...</p>
+                <h1 class="text-4xl font-bold text-white mb-4" id="playlistTitle">Loading...</h1>
+                <p class="text-lg text-gray-300" id="playlistDescription">Please wait...</p>
             </div>
         </header>
 
         <!-- Main Content -->
-        <main class="flex-1 py-8">
-            <div class="max-w-4xl mx-auto px-4">
-                <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+        <main class="flex-1 py-12">
+            <div class="max-w-6xl mx-auto px-6">
+                <div class="bg-eggs-gray rounded-2xl shadow-2xl border border-eggs-dark p-8">
                     <!-- Stats -->
-                    <div class="flex justify-between items-center mb-6 p-4 bg-gray-50 rounded-lg" id="playlistStats">
+                    <div class="flex justify-center items-center mb-8 p-6 bg-eggs-dark rounded-xl" id="playlistStats">
                         <!-- Stats will be populated by JavaScript -->
                     </div>
                     
                     <!-- Spotify Player -->
                     <div>
-                        <h3 class="text-lg font-semibold text-gray-900 mb-4">Listen on Spotify</h3>
+                        <h3 class="text-2xl font-bold text-white mb-6 text-center">Listen on Spotify</h3>
                         <iframe 
                             id="spotifyEmbed"
-                            class="w-full h-96 rounded-lg"
+                            class="w-full h-96 rounded-xl shadow-lg"
                             src=""
                             frameborder="0" 
                             allowtransparency="true" 
@@ -60,9 +86,22 @@
         </main>
 
         <!-- Footer -->
-        <footer class="bg-white border-t border-gray-200 py-6">
-            <div class="max-w-4xl mx-auto px-4 text-center text-gray-500 text-sm">
-                <p>&copy; 2025 Radio Huevos</p>
+        <footer class="bg-eggs-gray py-12">
+            <div class="max-w-6xl mx-auto px-6">
+                <div class="flex flex-col md:flex-row justify-between items-center">
+                    <div class="mb-6 md:mb-0">
+                        <h3 class="text-xl font-bold text-white mb-2">EGGS Radio</h3>
+                        <p class="text-gray-400">Part of the EGGS Design family</p>
+                    </div>
+                    <div class="flex space-x-6">
+                        <a href="https://www.eggsdesign.com/" class="text-gray-400 hover:text-white transition-colors">EGGS Design</a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">About</a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-colors">Contact</a>
+                    </div>
+                </div>
+                <div class="border-t border-eggs-dark mt-8 pt-8 text-center">
+                    <p class="text-gray-500 text-sm">&copy; 2025 EGGS Design, part of Sopra Steria</p>
+                </div>
             </div>
         </footer>
     </div>
@@ -97,12 +136,16 @@
             // Update stats
             const statsHtml = `
                 <div class="text-center">
-                    <div class="text-2xl font-bold text-gray-900">${playlist.songCount}</div>
-                    <div class="text-sm text-gray-600">Songs</div>
+                    <div class="text-4xl font-bold text-white mb-2">${playlist.songCount}</div>
+                    <div class="text-sm text-gray-300 uppercase tracking-wider">Songs</div>
                 </div>
                 <div class="text-center">
-                    <div class="text-2xl font-bold text-gray-900">${window.EGGSRadio.formatDuration(playlist.duration)}</div>
-                    <div class="text-sm text-gray-600">Duration</div>
+                    <div class="text-4xl font-bold text-white mb-2">${window.EGGSRadio.formatDuration(playlist.duration)}</div>
+                    <div class="text-sm text-gray-300 uppercase tracking-wider">Duration</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-4xl font-bold text-eggs-accent mb-2">${playlist.theme}</div>
+                    <div class="text-sm text-gray-300 uppercase tracking-wider">Theme</div>
                 </div>
             `;
             document.getElementById('playlistStats').innerHTML = statsHtml;
