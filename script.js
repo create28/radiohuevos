@@ -3447,24 +3447,19 @@ function createPlaylistCard(playlist) {
     const coverImage = playlist.coverImage || 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&h=640&fit=crop&crop=center';
     
     return `
-        <a href="playlist-detail.html?id=${playlist.id}" class="group bg-eggs-gray rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden border border-eggs-dark hover:border-eggs-accent/30">
+        <a href="playlist-detail.html?id=${playlist.id}" class="group bg-eggs-light rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-200 hover:border-eggs-accent/50">
             <div class="aspect-square overflow-hidden relative">
                 <img src="${coverImage}" alt="${playlist.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
-                <div class="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors duration-300"></div>
-                <div class="absolute top-4 right-4 bg-eggs-accent text-white px-3 py-1 rounded-full text-xs font-semibold">
+                <div class="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
+                <div class="absolute top-4 right-4 bg-eggs-accent text-white px-3 py-1 rounded-full text-xs font-semibold shadow-lg">
                     ${playlist.songCount} songs
                 </div>
             </div>
             <div class="p-6">
-                <h3 class="font-bold text-white text-xl mb-3 line-clamp-2 group-hover:text-eggs-accent transition-colors duration-300">${playlist.title}</h3>
-                <p class="text-gray-300 text-sm mb-4 line-clamp-2">${playlist.description}</p>
-                <div class="flex justify-between items-center text-sm text-gray-400 mb-6">
-                    <span class="flex items-center">
-                        <svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
-                        </svg>
-                        ${formatDuration(playlist.duration)}
-                    </span>
+                <h3 class="font-bold text-eggs-dark text-xl mb-3 line-clamp-2 group-hover:text-eggs-accent transition-colors duration-300">${playlist.title}</h3>
+                <p class="text-gray-600 text-sm mb-4 line-clamp-2">${playlist.description}</p>
+                <div class="flex justify-between items-center text-sm text-gray-500 mb-6">
+                    <span>${formatDuration(playlist.duration)}</span>
                     <span class="text-eggs-accent font-semibold">Listen Now</span>
                 </div>
             </div>
