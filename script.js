@@ -447,44 +447,6 @@ const playlists = [
         ]
     },
     {
-        "id": "eggs-celebrating-1000-years",
-        "title": "EGGS • Celebrating 1000 years",
-        "description": "Auto-generated playlist for theme: Celebrating 1000 years",
-        "theme": "Celebrating 1000 years",
-        "songCount": 3,
-        "duration": 18,
-        "spotifyId": "6NN79Jok9szCQJctlvXcSL",
-        "spotifyUrl": "https://open.spotify.com/playlist/6NN79Jok9szCQJctlvXcSL",
-        "coverImage": "https://i.scdn.co/image/ab67616d00001e0220936a48dd46af6a3097a174",
-        "lastUpdated": "AAAAAyMqn5FCM7GEGpZs8EeEb+sH6Vl8",
-        "tracks": [
-            {
-                "name": "Disco Dancer",
-                "artist": "Kiki Gyan",
-                "album": "24 Hours in a Disco 1978-82",
-                "duration": 416,
-                "spotifyId": "1np1H7mh6iUZhdBhkh3QIo",
-                "previewUrl": null
-            },
-            {
-                "name": "I See the Light",
-                "artist": "Crown Heights Affair",
-                "album": "Sure Shot (Bonus Tracks Version)",
-                "duration": 380,
-                "spotifyId": "0FbExgQeLVPWJsGmTWfHNZ",
-                "previewUrl": null
-            },
-            {
-                "name": "I'm Coming Out",
-                "artist": "Diana Ross",
-                "album": "Diana",
-                "duration": 323,
-                "spotifyId": "3SnGymj6ijE2iuUfWxLo1q",
-                "previewUrl": null
-            }
-        ]
-    },
-    {
         "id": "eggs-old-gold",
         "title": "EGGS • Old Gold",
         "description": "",
