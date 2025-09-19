@@ -1,6 +1,404 @@
 // EGGS Radio playlist data - Auto-generated
 const playlists = [
     {
+        "id": "eggs-songs-in-a-language-you-dont-understand-but-love",
+        "title": "EGGS • Songs in a language you don't understand but love",
+        "description": "Auto-generated playlist for theme: Songs in a language you don't understand but love",
+        "theme": "Songs in a language you don't understand but love",
+        "songCount": 48,
+        "duration": 192,
+        "spotifyId": "27HlUrm8Zt4SJ0BgmYzH1y",
+        "spotifyUrl": "https://open.spotify.com/playlist/27HlUrm8Zt4SJ0BgmYzH1y",
+        "coverImage": "https://mosaic.scdn.co/300/ab67616d00001e02050f744d20304c232568fb75ab67616d00001e02a0fce4a818e7d680d6ab5c40ab67616d00001e02bbb61a9df94d673defb2b8fcab67616d00001e02ff69df59ac29e2452ce2841a",
+        "lastUpdated": "AAAAAnew_playlist_snapshot_id",
+        "tracks": [
+            {
+                "name": "KALAMANTINA / كلمنتينا",
+                "artist": "Saint Levant, Marwan Moussa",
+                "album": "KALAMANTINA",
+                "duration": 180,
+                "spotifyId": "track_id_1",
+                "previewUrl": null
+            },
+            {
+                "name": "竹田の子守唄",
+                "artist": "The Red Birds",
+                "album": "Album Name",
+                "duration": 240,
+                "spotifyId": "track_id_2",
+                "previewUrl": null
+            },
+            {
+                "name": "Fio Maravilha",
+                "artist": "Bon Entendeur, Nicoletta",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_3",
+                "previewUrl": null
+            },
+            {
+                "name": "Mundian To Bach Ke",
+                "artist": "Panjabi MC",
+                "album": "Album Name",
+                "duration": 220,
+                "spotifyId": "track_id_4",
+                "previewUrl": null
+            },
+            {
+                "name": "La Vie en rose",
+                "artist": "Édith Piaf",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_5",
+                "previewUrl": null
+            },
+            {
+                "name": "Makeba",
+                "artist": "Jain",
+                "album": "Album Name",
+                "duration": 210,
+                "spotifyId": "track_id_6",
+                "previewUrl": null
+            },
+            {
+                "name": "Alane - Todd Terry's Radio Mix",
+                "artist": "Wes",
+                "album": "Album Name",
+                "duration": 185,
+                "spotifyId": "track_id_7",
+                "previewUrl": null
+            },
+            {
+                "name": "Elle",
+                "artist": "ISÁK",
+                "album": "Album Name",
+                "duration": 175,
+                "spotifyId": "track_id_8",
+                "previewUrl": null
+            },
+            {
+                "name": "Barfuß am Klavier",
+                "artist": "AnnenMayKantereit",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_id_9",
+                "previewUrl": null
+            },
+            {
+                "name": "Svefn-g-englar",
+                "artist": "Sigur Rós",
+                "album": "Album Name",
+                "duration": 300,
+                "spotifyId": "track_id_10",
+                "previewUrl": null
+            },
+            {
+                "name": "Brændt",
+                "artist": "Lis Sørensen",
+                "album": "Album Name",
+                "duration": 205,
+                "spotifyId": "track_id_11",
+                "previewUrl": null
+            },
+            {
+                "name": "I Want to Be Your Lover",
+                "artist": "Various Artists, Pan Ron",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_12",
+                "previewUrl": null
+            },
+            {
+                "name": "Asaw Fofor",
+                "artist": "Ignace de Souza & The Melody Aces",
+                "album": "Album Name",
+                "duration": 180,
+                "spotifyId": "track_id_13",
+                "previewUrl": null
+            },
+            {
+                "name": "Fai Yen",
+                "artist": "Ream Daranoi",
+                "album": "Album Name",
+                "duration": 220,
+                "spotifyId": "track_id_14",
+                "previewUrl": null
+            },
+            {
+                "name": "Jibal al Nuba (Mountains of Nuba)",
+                "artist": "Mahmoud Fadl",
+                "album": "Album Name",
+                "duration": 250,
+                "spotifyId": "track_id_15",
+                "previewUrl": null
+            },
+            {
+                "name": "Mwanake",
+                "artist": "Yuri Haal, Sofiya Nzau",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_16",
+                "previewUrl": null
+            },
+            {
+                "name": "Movimento Da Cidade",
+                "artist": "Ary Lobo",
+                "album": "Album Name",
+                "duration": 185,
+                "spotifyId": "track_id_17",
+                "previewUrl": null
+            },
+            {
+                "name": "Tu Daana",
+                "artist": "Sammy",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_id_18",
+                "previewUrl": null
+            },
+            {
+                "name": "Tana Dery Na",
+                "artist": "Nusrat Fateh Ali Khan",
+                "album": "Album Name",
+                "duration": 280,
+                "spotifyId": "track_id_19",
+                "previewUrl": null
+            },
+            {
+                "name": "Leywole",
+                "artist": "Falle Nioke, Ghost Culture",
+                "album": "Album Name",
+                "duration": 210,
+                "spotifyId": "track_id_20",
+                "previewUrl": null
+            },
+            {
+                "name": "La maison jaune (edit)",
+                "artist": "Klô Pelgag",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_21",
+                "previewUrl": null
+            },
+            {
+                "name": "Bécane - A COLORS SHOW",
+                "artist": "Yamê, COLORS",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_22",
+                "previewUrl": null
+            },
+            {
+                "name": "Mona Ki Ngi Xica",
+                "artist": "Bonga",
+                "album": "Album Name",
+                "duration": 225,
+                "spotifyId": "track_id_23",
+                "previewUrl": null
+            },
+            {
+                "name": "LA COMBI VERSACE",
+                "artist": "ROSALÍA, Tokischa",
+                "album": "Album Name",
+                "duration": 180,
+                "spotifyId": "track_id_24",
+                "previewUrl": null
+            },
+            {
+                "name": "J'aime pas le goût - A COLORS SHOW",
+                "artist": "LYNN",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_id_25",
+                "previewUrl": null
+            },
+            {
+                "name": "Trøllabundin",
+                "artist": "Eivør",
+                "album": "Album Name",
+                "duration": 205,
+                "spotifyId": "track_id_26",
+                "previewUrl": null
+            },
+            {
+                "name": "Love Story",
+                "artist": "Indila",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_27",
+                "previewUrl": null
+            },
+            {
+                "name": "LA FAMA",
+                "artist": "ROSALÍA, The Weeknd",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_28",
+                "previewUrl": null
+            },
+            {
+                "name": "Il est cinq heures, Paris s'éveille - Remastered 2004",
+                "artist": "Jacques Dutronc",
+                "album": "Album Name",
+                "duration": 185,
+                "spotifyId": "track_id_29",
+                "previewUrl": null
+            },
+            {
+                "name": "Leyndarmál",
+                "artist": "Ásgeir",
+                "album": "Album Name",
+                "duration": 210,
+                "spotifyId": "track_id_30",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 31",
+                "artist": "Artist 31",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_31",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 32",
+                "artist": "Artist 32",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_32",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 33",
+                "artist": "Artist 33",
+                "album": "Album Name",
+                "duration": 185,
+                "spotifyId": "track_id_33",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 34",
+                "artist": "Artist 34",
+                "album": "Album Name",
+                "duration": 220,
+                "spotifyId": "track_id_34",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 35",
+                "artist": "Artist 35",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_id_35",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 36",
+                "artist": "Artist 36",
+                "album": "Album Name",
+                "duration": 205,
+                "spotifyId": "track_id_36",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 37",
+                "artist": "Artist 37",
+                "album": "Album Name",
+                "duration": 180,
+                "spotifyId": "track_id_37",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 38",
+                "artist": "Artist 38",
+                "album": "Album Name",
+                "duration": 215,
+                "spotifyId": "track_id_38",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 39",
+                "artist": "Artist 39",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_39",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 40",
+                "artist": "Artist 40",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_40",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 41",
+                "artist": "Artist 41",
+                "album": "Album Name",
+                "duration": 185,
+                "spotifyId": "track_id_41",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 42",
+                "artist": "Artist 42",
+                "album": "Album Name",
+                "duration": 210,
+                "spotifyId": "track_id_42",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 43",
+                "artist": "Artist 43",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_id_43",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 44",
+                "artist": "Artist 44",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_44",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 45",
+                "artist": "Artist 45",
+                "album": "Album Name",
+                "duration": 175,
+                "spotifyId": "track_id_45",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 46",
+                "artist": "Artist 46",
+                "album": "Album Name",
+                "duration": 205,
+                "spotifyId": "track_id_46",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 47",
+                "artist": "Artist 47",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_id_47",
+                "previewUrl": null
+            },
+            {
+                "name": "Track 48",
+                "artist": "Artist 48",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_id_48",
+                "previewUrl": null
+            }
+        ]
+    },
+    {
         "id": "eggs-songs-from-the-60s-and-70s",
         "title": "EGGS • Songs from the 60s and 70s",
         "description": "Auto-generated playlist for theme: Songs from the 60s and 70s",
@@ -3420,404 +3818,6 @@ const playlists = [
                 "album": "Nightcall",
                 "duration": 258,
                 "spotifyId": "0U0ldCRmgCqhVvD6ksG63j",
-                "previewUrl": null
-            }
-        ]
-    },
-    {
-        "id": "eggs-songs-in-a-language-you-dont-understand-but-love",
-        "title": "EGGS • Songs in a language you don't understand but love",
-        "description": "Auto-generated playlist for theme: Songs in a language you don't understand but love",
-        "theme": "Songs in a language you don't understand but love",
-        "songCount": 48,
-        "duration": 192,
-        "spotifyId": "27HlUrm8Zt4SJ0BgmYzH1y",
-        "spotifyUrl": "https://open.spotify.com/playlist/27HlUrm8Zt4SJ0BgmYzH1y",
-        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e02",
-        "lastUpdated": "AAAAAnew_playlist_snapshot_id",
-        "tracks": [
-            {
-                "name": "KALAMANTINA / كلمنتينا",
-                "artist": "Saint Levant, Marwan Moussa",
-                "album": "KALAMANTINA",
-                "duration": 180,
-                "spotifyId": "track_id_1",
-                "previewUrl": null
-            },
-            {
-                "name": "竹田の子守唄",
-                "artist": "The Red Birds",
-                "album": "Album Name",
-                "duration": 240,
-                "spotifyId": "track_id_2",
-                "previewUrl": null
-            },
-            {
-                "name": "Fio Maravilha",
-                "artist": "Bon Entendeur, Nicoletta",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_3",
-                "previewUrl": null
-            },
-            {
-                "name": "Mundian To Bach Ke",
-                "artist": "Panjabi MC",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_id_4",
-                "previewUrl": null
-            },
-            {
-                "name": "La Vie en rose",
-                "artist": "Édith Piaf",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_5",
-                "previewUrl": null
-            },
-            {
-                "name": "Makeba",
-                "artist": "Jain",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_6",
-                "previewUrl": null
-            },
-            {
-                "name": "Alane - Todd Terry's Radio Mix",
-                "artist": "Wes",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_7",
-                "previewUrl": null
-            },
-            {
-                "name": "Elle",
-                "artist": "ISÁK",
-                "album": "Album Name",
-                "duration": 175,
-                "spotifyId": "track_id_8",
-                "previewUrl": null
-            },
-            {
-                "name": "Barfuß am Klavier",
-                "artist": "AnnenMayKantereit",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_9",
-                "previewUrl": null
-            },
-            {
-                "name": "Svefn-g-englar",
-                "artist": "Sigur Rós",
-                "album": "Album Name",
-                "duration": 300,
-                "spotifyId": "track_id_10",
-                "previewUrl": null
-            },
-            {
-                "name": "Brændt",
-                "artist": "Lis Sørensen",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_11",
-                "previewUrl": null
-            },
-            {
-                "name": "I Want to Be Your Lover",
-                "artist": "Various Artists, Pan Ron",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_12",
-                "previewUrl": null
-            },
-            {
-                "name": "Asaw Fofor",
-                "artist": "Ignace de Souza & The Melody Aces",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_13",
-                "previewUrl": null
-            },
-            {
-                "name": "Fai Yen",
-                "artist": "Ream Daranoi",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_id_14",
-                "previewUrl": null
-            },
-            {
-                "name": "Jibal al Nuba (Mountains of Nuba)",
-                "artist": "Mahmoud Fadl",
-                "album": "Album Name",
-                "duration": 250,
-                "spotifyId": "track_id_15",
-                "previewUrl": null
-            },
-            {
-                "name": "Mwanake",
-                "artist": "Yuri Haal, Sofiya Nzau",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_16",
-                "previewUrl": null
-            },
-            {
-                "name": "Movimento Da Cidade",
-                "artist": "Ary Lobo",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_17",
-                "previewUrl": null
-            },
-            {
-                "name": "Tu Daana",
-                "artist": "Sammy",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_18",
-                "previewUrl": null
-            },
-            {
-                "name": "Tana Dery Na",
-                "artist": "Nusrat Fateh Ali Khan",
-                "album": "Album Name",
-                "duration": 280,
-                "spotifyId": "track_id_19",
-                "previewUrl": null
-            },
-            {
-                "name": "Leywole",
-                "artist": "Falle Nioke, Ghost Culture",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_20",
-                "previewUrl": null
-            },
-            {
-                "name": "La maison jaune (edit)",
-                "artist": "Klô Pelgag",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_21",
-                "previewUrl": null
-            },
-            {
-                "name": "Bécane - A COLORS SHOW",
-                "artist": "Yamê, COLORS",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_22",
-                "previewUrl": null
-            },
-            {
-                "name": "Mona Ki Ngi Xica",
-                "artist": "Bonga",
-                "album": "Album Name",
-                "duration": 225,
-                "spotifyId": "track_id_23",
-                "previewUrl": null
-            },
-            {
-                "name": "LA COMBI VERSACE",
-                "artist": "ROSALÍA, Tokischa",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_24",
-                "previewUrl": null
-            },
-            {
-                "name": "J'aime pas le goût - A COLORS SHOW",
-                "artist": "LYNN",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_25",
-                "previewUrl": null
-            },
-            {
-                "name": "Trøllabundin",
-                "artist": "Eivør",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_26",
-                "previewUrl": null
-            },
-            {
-                "name": "Love Story",
-                "artist": "Indila",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_27",
-                "previewUrl": null
-            },
-            {
-                "name": "LA FAMA",
-                "artist": "ROSALÍA, The Weeknd",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_28",
-                "previewUrl": null
-            },
-            {
-                "name": "Il est cinq heures, Paris s'éveille - Remastered 2004",
-                "artist": "Jacques Dutronc",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_29",
-                "previewUrl": null
-            },
-            {
-                "name": "Leyndarmál",
-                "artist": "Ásgeir",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_30",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 31",
-                "artist": "Artist 31",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_31",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 32",
-                "artist": "Artist 32",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_32",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 33",
-                "artist": "Artist 33",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_33",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 34",
-                "artist": "Artist 34",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_id_34",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 35",
-                "artist": "Artist 35",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_35",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 36",
-                "artist": "Artist 36",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_36",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 37",
-                "artist": "Artist 37",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_37",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 38",
-                "artist": "Artist 38",
-                "album": "Album Name",
-                "duration": 215,
-                "spotifyId": "track_id_38",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 39",
-                "artist": "Artist 39",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_39",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 40",
-                "artist": "Artist 40",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_40",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 41",
-                "artist": "Artist 41",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_41",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 42",
-                "artist": "Artist 42",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_42",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 43",
-                "artist": "Artist 43",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_43",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 44",
-                "artist": "Artist 44",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_44",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 45",
-                "artist": "Artist 45",
-                "album": "Album Name",
-                "duration": 175,
-                "spotifyId": "track_id_45",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 46",
-                "artist": "Artist 46",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_46",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 47",
-                "artist": "Artist 47",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_47",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 48",
-                "artist": "Artist 48",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_48",
                 "previewUrl": null
             }
         ]
