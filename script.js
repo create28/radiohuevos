@@ -1,6 +1,260 @@
 // EGGS Radio playlist data - Auto-generated
 const playlists = [
     {
+        "id": "eggs-great-workout-songs",
+        "title": "EGGS • Great workout songs",
+        "description": "Auto-generated playlist for theme: Great workout songs",
+        "theme": "Great workout songs",
+        "songCount": 30,
+        "duration": 120,
+        "spotifyId": "2Wyith07b07Squ5iW18MCw",
+        "spotifyUrl": "https://open.spotify.com/playlist/2Wyith07b07Squ5iW18MCw",
+        "coverImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=640&fit=crop&crop=center",
+        "lastUpdated": "2025-01-27T10:00:00Z",
+        "tracks": [
+            {
+                "name": "Physical - Remastered 2021",
+                "artist": "Olivia Newton-John",
+                "album": "Physical (Remastered)",
+                "duration": 217,
+                "spotifyId": "track_physical",
+                "previewUrl": null
+            },
+            {
+                "name": "Live To Win",
+                "artist": "Paul Stanley",
+                "album": "Live To Win",
+                "duration": 240,
+                "spotifyId": "track_live_to_win",
+                "previewUrl": null
+            },
+            {
+                "name": "Imaginary",
+                "artist": "Brennan Heart, Jonathan Mendelsohn",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_imaginary",
+                "previewUrl": null
+            },
+            {
+                "name": "Be Here Now",
+                "artist": "Brennan Heart, Jonathan Mendelsohn",
+                "album": "Album Name",
+                "duration": 195,
+                "spotifyId": "track_be_here_now",
+                "previewUrl": null
+            },
+            {
+                "name": "Muscles",
+                "artist": "Diana Ross",
+                "album": "Silk Electric",
+                "duration": 245,
+                "spotifyId": "track_muscles",
+                "previewUrl": null
+            },
+            {
+                "name": "True Survivor - From \"Kung Fury\"",
+                "artist": "David Hasselhoff",
+                "album": "Kung Fury (Original Motion Picture Soundtrack)",
+                "duration": 180,
+                "spotifyId": "track_true_survivor",
+                "previewUrl": null
+            },
+            {
+                "name": "You're The Best",
+                "artist": "Joe \"Bean\" Esposito",
+                "album": "The Karate Kid (Original Motion Picture Soundtrack)",
+                "duration": 200,
+                "spotifyId": "track_youre_the_best",
+                "previewUrl": null
+            },
+            {
+                "name": "The Final Countdown",
+                "artist": "Europe",
+                "album": "The Final Countdown",
+                "duration": 310,
+                "spotifyId": "track_final_countdown",
+                "previewUrl": null
+            },
+            {
+                "name": "Eye of the Tiger",
+                "artist": "Survivor",
+                "album": "Eye Of The Tiger",
+                "duration": 245,
+                "spotifyId": "track_eye_of_tiger",
+                "previewUrl": null
+            },
+            {
+                "name": "Besos En Guerra",
+                "artist": "Morat, Juanes",
+                "album": "Album Name",
+                "duration": 220,
+                "spotifyId": "track_besos_en_guerra",
+                "previewUrl": null
+            },
+            {
+                "name": "No Cigar",
+                "artist": "Millencolin",
+                "album": "Pennybridge Pioneers",
+                "duration": 180,
+                "spotifyId": "track_no_cigar",
+                "previewUrl": null
+            },
+            {
+                "name": "Hustlin'",
+                "artist": "Rick Ross",
+                "album": "Port of Miami",
+                "duration": 240,
+                "spotifyId": "track_hustlin",
+                "previewUrl": null
+            },
+            {
+                "name": "A Milli",
+                "artist": "Lil Wayne",
+                "album": "Tha Carter III",
+                "duration": 220,
+                "spotifyId": "track_a_milli",
+                "previewUrl": null
+            },
+            {
+                "name": "Freedom 2",
+                "artist": "Kwengface, Joy Orbison, Overmono",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_freedom_2",
+                "previewUrl": null
+            },
+            {
+                "name": "Del Oro",
+                "artist": "Floating Points",
+                "album": "Album Name",
+                "duration": 300,
+                "spotifyId": "track_del_oro",
+                "previewUrl": null
+            },
+            {
+                "name": "Satisfaction - Uk Radio Edit",
+                "artist": "Benny Benassi, The Biz",
+                "album": "Album Name",
+                "duration": 180,
+                "spotifyId": "track_satisfaction",
+                "previewUrl": null
+            },
+            {
+                "name": "Call on Me - Radio Mix",
+                "artist": "Eric Prydz",
+                "album": "Call on Me",
+                "duration": 200,
+                "spotifyId": "track_call_on_me",
+                "previewUrl": null
+            },
+            {
+                "name": "Harder, Better, Faster, Stronger",
+                "artist": "Daft Punk",
+                "album": "Discovery",
+                "duration": 225,
+                "spotifyId": "track_harder_better",
+                "previewUrl": null
+            },
+            {
+                "name": "Off The Top Rope",
+                "artist": "Tim Reaper",
+                "album": "Album Name",
+                "duration": 190,
+                "spotifyId": "track_off_the_top_rope",
+                "previewUrl": null
+            },
+            {
+                "name": "Werk",
+                "artist": "Sully",
+                "album": "Album Name",
+                "duration": 210,
+                "spotifyId": "track_werk",
+                "previewUrl": null
+            },
+            {
+                "name": "Whiskey In The Jar",
+                "artist": "Metallica",
+                "album": "Garage Inc.",
+                "duration": 300,
+                "spotifyId": "track_whiskey_in_jar",
+                "previewUrl": null
+            },
+            {
+                "name": "For Evigt",
+                "artist": "Volbeat, Johan Olsen",
+                "album": "Album Name",
+                "duration": 250,
+                "spotifyId": "track_for_evigt",
+                "previewUrl": null
+            },
+            {
+                "name": "Marea (we've lost dancing)",
+                "artist": "Fred again.., The Blessed Madonna",
+                "album": "Album Name",
+                "duration": 280,
+                "spotifyId": "track_marea",
+                "previewUrl": null
+            },
+            {
+                "name": "I'm Outta Love - Radio Edit",
+                "artist": "Anastacia",
+                "album": "Not That Kind",
+                "duration": 200,
+                "spotifyId": "track_im_outta_love",
+                "previewUrl": null
+            },
+            {
+                "name": "Deutschland",
+                "artist": "Rammstein",
+                "album": "Rammstein",
+                "duration": 320,
+                "spotifyId": "track_deutschland",
+                "previewUrl": null
+            },
+            {
+                "name": "Work Bitch",
+                "artist": "Britney Spears",
+                "album": "Britney Jean",
+                "duration": 240,
+                "spotifyId": "track_work_bitch",
+                "previewUrl": null
+            },
+            {
+                "name": "Right Here, Right Now",
+                "artist": "Fatboy Slim",
+                "album": "You've Come a Long Way, Baby",
+                "duration": 220,
+                "spotifyId": "track_right_here_right_now",
+                "previewUrl": null
+            },
+            {
+                "name": "Over My Head (Better Off Dead)",
+                "artist": "Sum 41",
+                "album": "All Killer No Filler",
+                "duration": 180,
+                "spotifyId": "track_over_my_head",
+                "previewUrl": null
+            },
+            {
+                "name": "Yucky Blucky Fruitcake",
+                "artist": "Doechii",
+                "album": "Album Name",
+                "duration": 200,
+                "spotifyId": "track_yucky_blucky",
+                "previewUrl": null
+            },
+            {
+                "name": "pink diamond",
+                "artist": "Charli xcx",
+                "album": "how i'm feeling now",
+                "duration": 190,
+                "spotifyId": "track_pink_diamond",
+                "previewUrl": null
+            }
+        ]
+    },
+    {
         "id": "eggs-songs-in-a-language-you-dont-understand-but-love",
         "title": "EGGS • Songs in a language you don't understand but love",
         "description": "Auto-generated playlist for theme: Songs in a language you don't understand but love",
