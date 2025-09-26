@@ -5,649 +5,681 @@ const playlists = [
         "title": "EGGS • Great workout songs",
         "description": "Auto-generated playlist for theme: Great workout songs",
         "theme": "Great workout songs",
-        "songCount": 30,
-        "duration": 120,
+        "songCount": 34,
+        "duration": 133,
         "spotifyId": "2Wyith07b07Squ5iW18MCw",
         "spotifyUrl": "https://open.spotify.com/playlist/2Wyith07b07Squ5iW18MCw",
-        "coverImage": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=640&h=640&fit=crop&crop=center",
-        "lastUpdated": "2025-01-27T10:00:00Z",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0213d8e8187b8d451cea7fc25aab67616d00001e0222127025d9ae9e27c33d3d2bab67616d00001e027bfadd69ca8983390a20f207ab67616d00001e02ea4c984cbcf1b9b9f7c10422",
+        "lastUpdated": "AAAAAvLNbs4L6gJs2OHiNsgATMluynLG",
         "tracks": [
             {
                 "name": "Physical - Remastered 2021",
                 "artist": "Olivia Newton-John",
-                "album": "Physical (Remastered)",
-                "duration": 217,
-                "spotifyId": "track_physical",
+                "album": "Physical (Deluxe Edition)",
+                "duration": 225,
+                "spotifyId": "4gitetlGHZ9LfuJhwUhEhF",
                 "previewUrl": null
             },
             {
                 "name": "Live To Win",
                 "artist": "Paul Stanley",
                 "album": "Live To Win",
-                "duration": 240,
-                "spotifyId": "track_live_to_win",
+                "duration": 187,
+                "spotifyId": "74inHQGjQj6w630tZ9wb2J",
                 "previewUrl": null
             },
             {
                 "name": "Imaginary",
                 "artist": "Brennan Heart, Jonathan Mendelsohn",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_imaginary",
+                "album": "Imaginary",
+                "duration": 192,
+                "spotifyId": "2TgDK4TC5KsywTYafAE4Gd",
                 "previewUrl": null
             },
             {
                 "name": "Be Here Now",
                 "artist": "Brennan Heart, Jonathan Mendelsohn",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_be_here_now",
+                "album": "I AM HARDSTYLE (The Album)",
+                "duration": 233,
+                "spotifyId": "5Yldt1EiD9XTfZPMLfIW86",
                 "previewUrl": null
             },
             {
                 "name": "Muscles",
                 "artist": "Diana Ross",
                 "album": "Silk Electric",
-                "duration": 245,
-                "spotifyId": "track_muscles",
+                "duration": 280,
+                "spotifyId": "63EaQ5loAR77RnoIpS33Xq",
                 "previewUrl": null
             },
             {
                 "name": "True Survivor - From \"Kung Fury\"",
                 "artist": "David Hasselhoff",
-                "album": "Kung Fury (Original Motion Picture Soundtrack)",
-                "duration": 180,
-                "spotifyId": "track_true_survivor",
+                "album": "True Survivor (From \"Kung Fury\")",
+                "duration": 220,
+                "spotifyId": "3fnUvzulzK4SZGl5o1hgqx",
                 "previewUrl": null
             },
             {
                 "name": "You're The Best",
                 "artist": "Joe \"Bean\" Esposito",
-                "album": "The Karate Kid (Original Motion Picture Soundtrack)",
-                "duration": 200,
-                "spotifyId": "track_youre_the_best",
+                "album": "The Karate Kid: The Original Motion Picture Soundtrack",
+                "duration": 179,
+                "spotifyId": "4zXa17K83Pp6N2yXdVc2sv",
                 "previewUrl": null
             },
             {
                 "name": "The Final Countdown",
                 "artist": "Europe",
-                "album": "The Final Countdown",
+                "album": "The Final Countdown (Expanded Edition)",
                 "duration": 310,
-                "spotifyId": "track_final_countdown",
+                "spotifyId": "3MrRksHupTVEQ7YbA0FsZK",
                 "previewUrl": null
             },
             {
                 "name": "Eye of the Tiger",
                 "artist": "Survivor",
-                "album": "Eye Of The Tiger",
+                "album": "Rocky IV",
                 "duration": 245,
-                "spotifyId": "track_eye_of_tiger",
+                "spotifyId": "2KH16WveTQWT6KOG9Rg6e2",
                 "previewUrl": null
             },
             {
                 "name": "Besos En Guerra",
                 "artist": "Morat, Juanes",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_besos_en_guerra",
+                "album": "Balas Perdidas",
+                "duration": 231,
+                "spotifyId": "1mlGScrDQqHqmhdIqE8MmA",
                 "previewUrl": null
             },
             {
                 "name": "No Cigar",
                 "artist": "Millencolin",
                 "album": "Pennybridge Pioneers",
-                "duration": 180,
-                "spotifyId": "track_no_cigar",
+                "duration": 163,
+                "spotifyId": "22klU94r0NFtx4cPO8KqHk",
                 "previewUrl": null
             },
             {
                 "name": "Hustlin'",
                 "artist": "Rick Ross",
-                "album": "Port of Miami",
-                "duration": 240,
-                "spotifyId": "track_hustlin",
+                "album": "Port Of Miami",
+                "duration": 254,
+                "spotifyId": "3hQCHzkE5oSA3F1xM8bpcM",
                 "previewUrl": null
             },
             {
                 "name": "A Milli",
                 "artist": "Lil Wayne",
                 "album": "Tha Carter III",
-                "duration": 220,
-                "spotifyId": "track_a_milli",
+                "duration": 221,
+                "spotifyId": "3uqinR4FCjLv28bkrTdNX5",
                 "previewUrl": null
             },
             {
                 "name": "Freedom 2",
                 "artist": "Kwengface, Joy Orbison, Overmono",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_freedom_2",
+                "album": "Freedom 2",
+                "duration": 206,
+                "spotifyId": "3sn7UM54xyAUjfR9rNxZwp",
                 "previewUrl": null
             },
             {
                 "name": "Del Oro",
                 "artist": "Floating Points",
-                "album": "Album Name",
-                "duration": 300,
-                "spotifyId": "track_del_oro",
+                "album": "Cascade",
+                "duration": 374,
+                "spotifyId": "3YGFZ8rIsAA5zQvvoeCaW0",
                 "previewUrl": null
             },
             {
                 "name": "Satisfaction - Uk Radio Edit",
                 "artist": "Benny Benassi, The Biz",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_satisfaction",
+                "album": "Satisfaction (Benny Benassi Presents The Biz)",
+                "duration": 143,
+                "spotifyId": "2mRNUz2RbAFf0AkPeQWelt",
                 "previewUrl": null
             },
             {
                 "name": "Call on Me - Radio Mix",
                 "artist": "Eric Prydz",
-                "album": "Call on Me",
-                "duration": 200,
-                "spotifyId": "track_call_on_me",
+                "album": "Call on Me (Radio Mix)",
+                "duration": 171,
+                "spotifyId": "1xNcBAoUw8Hz6LqK2jt4Ff",
                 "previewUrl": null
             },
             {
                 "name": "Harder, Better, Faster, Stronger",
                 "artist": "Daft Punk",
                 "album": "Discovery",
-                "duration": 225,
-                "spotifyId": "track_harder_better",
+                "duration": 226,
+                "spotifyId": "5W3cjX2J3tjhG8zb6u0qHn",
                 "previewUrl": null
             },
             {
                 "name": "Off The Top Rope",
                 "artist": "Tim Reaper",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_off_the_top_rope",
+                "album": "MYORFR001",
+                "duration": 349,
+                "spotifyId": "4h0sS4figHmFBU6X1m3cyq",
                 "previewUrl": null
             },
             {
                 "name": "Werk",
                 "artist": "Sully",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_werk",
+                "album": "Swandive",
+                "duration": 287,
+                "spotifyId": "7lXZ2YOqx6Nsx0C5xSfPnZ",
                 "previewUrl": null
             },
             {
                 "name": "Whiskey In The Jar",
                 "artist": "Metallica",
                 "album": "Garage Inc.",
-                "duration": 300,
-                "spotifyId": "track_whiskey_in_jar",
+                "duration": 304,
+                "spotifyId": "2R6UrJ8uWbSIiHWmvRQvN8",
                 "previewUrl": null
             },
             {
                 "name": "For Evigt",
                 "artist": "Volbeat, Johan Olsen",
-                "album": "Album Name",
-                "duration": 250,
-                "spotifyId": "track_for_evigt",
+                "album": "Seal The Deal & Let's Boogie (Deluxe)",
+                "duration": 283,
+                "spotifyId": "59fQzvSv0wPQorW2Bh0pns",
                 "previewUrl": null
             },
             {
-                "name": "Marea (we've lost dancing)",
+                "name": "Marea (we’ve lost dancing)",
                 "artist": "Fred again.., The Blessed Madonna",
-                "album": "Album Name",
-                "duration": 280,
-                "spotifyId": "track_marea",
+                "album": "Marea (we’ve lost dancing)",
+                "duration": 285,
+                "spotifyId": "1t0Jmqg1pKVBbxjQFZebeR",
                 "previewUrl": null
             },
             {
                 "name": "I'm Outta Love - Radio Edit",
                 "artist": "Anastacia",
-                "album": "Not That Kind",
-                "duration": 200,
-                "spotifyId": "track_im_outta_love",
+                "album": "Pieces Of A Dream",
+                "duration": 245,
+                "spotifyId": "583xVl0Sbj93uU4ceixgU8",
                 "previewUrl": null
             },
             {
                 "name": "Deutschland",
                 "artist": "Rammstein",
                 "album": "Rammstein",
-                "duration": 320,
-                "spotifyId": "track_deutschland",
+                "duration": 322,
+                "spotifyId": "2bPGTMB5sFfFYQ2YvSmup0",
                 "previewUrl": null
             },
             {
                 "name": "Work Bitch",
                 "artist": "Britney Spears",
-                "album": "Britney Jean",
-                "duration": 240,
-                "spotifyId": "track_work_bitch",
+                "album": "Britney Jean (Deluxe Version)",
+                "duration": 247,
+                "spotifyId": "3KliPMvk1EvFZu9cvkj8p1",
                 "previewUrl": null
             },
             {
                 "name": "Right Here, Right Now",
                 "artist": "Fatboy Slim",
-                "album": "You've Come a Long Way, Baby",
-                "duration": 220,
-                "spotifyId": "track_right_here_right_now",
+                "album": "You've Come a Long Way Baby (10th Anniversary Edition)",
+                "duration": 387,
+                "spotifyId": "0qnqsfFYgBo0sPHM2JmfTq",
                 "previewUrl": null
             },
             {
                 "name": "Over My Head (Better Off Dead)",
                 "artist": "Sum 41",
-                "album": "All Killer No Filler",
-                "duration": 180,
-                "spotifyId": "track_over_my_head",
+                "album": "Does This Look Infected?",
+                "duration": 149,
+                "spotifyId": "40sl0jG01g4FZkCrBzQhZX",
                 "previewUrl": null
             },
             {
                 "name": "Yucky Blucky Fruitcake",
                 "artist": "Doechii",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_yucky_blucky",
+                "album": "Oh The Places You’ll Go",
+                "duration": 275,
+                "spotifyId": "1j3SdMJfeRJXycCp50boYE",
                 "previewUrl": null
             },
             {
                 "name": "pink diamond",
                 "artist": "Charli xcx",
                 "album": "how i'm feeling now",
-                "duration": 190,
-                "spotifyId": "track_pink_diamond",
+                "duration": 124,
+                "spotifyId": "3V0PgcsUMlAGXwCD0084pY",
+                "previewUrl": null
+            },
+            {
+                "name": "IGOR'S THEME",
+                "artist": "Tyler, The Creator",
+                "album": "IGOR",
+                "duration": 200,
+                "spotifyId": "51RN0kzWd7xeR4th5HsEtW",
+                "previewUrl": null
+            },
+            {
+                "name": "Venom",
+                "artist": "Little Simz",
+                "album": "Venom",
+                "duration": 154,
+                "spotifyId": "4WaaWczlVb1UJ24LILsR4C",
+                "previewUrl": null
+            },
+            {
+                "name": "damn Right Pt. 2",
+                "artist": "AUDREY NUNA, DJ Snake",
+                "album": "damn Right Pt. 2",
+                "duration": 186,
+                "spotifyId": "3syIqcdNRjbFcWkEMRRT1d",
+                "previewUrl": null
+            },
+            {
+                "name": "OMG BRITT",
+                "artist": "Sudan Archives",
+                "album": "OMG BRITT",
+                "duration": 172,
+                "spotifyId": "1lHO9Z4KzFzm9VPxKvT0KE",
                 "previewUrl": null
             }
         ]
     },
     {
         "id": "eggs-songs-in-a-language-you-dont-understand-but-love",
-        "title": "EGGS • Songs in a language you don't understand but love",
-        "description": "Auto-generated playlist for theme: Songs in a language you don't understand but love",
-        "theme": "Songs in a language you don't understand but love",
+        "title": "EGGS • Songs in a language you don’t understand but love",
+        "description": "Auto-generated playlist for theme: Songs in a language you don’t understand but love",
+        "theme": "Songs in a language you don’t understand but love",
         "songCount": 48,
-        "duration": 192,
+        "duration": 184,
         "spotifyId": "27HlUrm8Zt4SJ0BgmYzH1y",
         "spotifyUrl": "https://open.spotify.com/playlist/27HlUrm8Zt4SJ0BgmYzH1y",
-        "coverImage": "https://mosaic.scdn.co/300/ab67616d00001e02050f744d20304c232568fb75ab67616d00001e02a0fce4a818e7d680d6ab5c40ab67616d00001e02bbb61a9df94d673defb2b8fcab67616d00001e02ff69df59ac29e2452ce2841a",
-        "lastUpdated": "AAAAAnew_playlist_snapshot_id",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e02050f744d20304c232568fb75ab67616d00001e02a0fce4a818e7d680d6ab5c40ab67616d00001e02bbb61a9df94d673defb2b8fcab67616d00001e02ff69df59ac29e2452ce2841a",
+        "lastUpdated": "AAAAAtWachQYY+6MoOADAIn8P1W2iyRF",
         "tracks": [
             {
                 "name": "KALAMANTINA / كلمنتينا",
                 "artist": "Saint Levant, Marwan Moussa",
-                "album": "KALAMANTINA",
-                "duration": 180,
-                "spotifyId": "track_id_1",
+                "album": "Love Letters / رسائل حب",
+                "duration": 206,
+                "spotifyId": "3vZ3ngEbunTiK4fOVKyzYD",
                 "previewUrl": null
             },
             {
                 "name": "竹田の子守唄",
-                "artist": "The Red Birds",
-                "album": "Album Name",
-                "duration": 240,
-                "spotifyId": "track_id_2",
+                "artist": "赤い鳥",
+                "album": "お父帰れや",
+                "duration": 166,
+                "spotifyId": "011pb7iVmSXYsZQLV11yIf",
                 "previewUrl": null
             },
             {
                 "name": "Fio Maravilha",
                 "artist": "Bon Entendeur, Nicoletta",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_3",
+                "album": "Rivages",
+                "duration": 189,
+                "spotifyId": "1DrAW1n5HLSoCa1kVDKse4",
                 "previewUrl": null
             },
             {
                 "name": "Mundian To Bach Ke",
                 "artist": "Panjabi MC",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_id_4",
+                "album": "The Album",
+                "duration": 245,
+                "spotifyId": "2LxAeJ9KUj1GRS9oeHgQ3i",
                 "previewUrl": null
             },
             {
                 "name": "La Vie en rose",
                 "artist": "Édith Piaf",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_5",
+                "album": "Edith Piaf - The Best Of",
+                "duration": 187,
+                "spotifyId": "3lAun9V0YdTlCSIEXPvfsY",
                 "previewUrl": null
             },
             {
                 "name": "Makeba",
                 "artist": "Jain",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_6",
+                "album": "Zanaka",
+                "duration": 249,
+                "spotifyId": "5JdLUE9D743ob2RtgmVpVx",
                 "previewUrl": null
             },
             {
                 "name": "Alane - Todd Terry's Radio Mix",
                 "artist": "Wes",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_7",
+                "album": "Alane",
+                "duration": 220,
+                "spotifyId": "39efJ7FpyszrwpuqrlgX0K",
                 "previewUrl": null
             },
             {
                 "name": "Elle",
                 "artist": "ISÁK",
-                "album": "Album Name",
-                "duration": 175,
-                "spotifyId": "track_id_8",
+                "album": "Elle",
+                "duration": 223,
+                "spotifyId": "1vyK1EbMk2RnUSdztH7a7U",
                 "previewUrl": null
             },
             {
                 "name": "Barfuß am Klavier",
                 "artist": "AnnenMayKantereit",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_9",
+                "album": "Alles nix konkretes",
+                "duration": 195,
+                "spotifyId": "4kr64ggr6ALZGxnkGdhK7b",
                 "previewUrl": null
             },
             {
                 "name": "Svefn-g-englar",
                 "artist": "Sigur Rós",
-                "album": "Album Name",
-                "duration": 300,
-                "spotifyId": "track_id_10",
+                "album": "Ágætis byrjun",
+                "duration": 606,
+                "spotifyId": "07eGxuz8bL6QMsRqEe1Adu",
                 "previewUrl": null
             },
             {
                 "name": "Brændt",
                 "artist": "Lis Sørensen",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_11",
+                "album": "For Fuld Musik",
+                "duration": 279,
+                "spotifyId": "6Q5holJWGmXUFQltIgvKUy",
                 "previewUrl": null
             },
             {
                 "name": "I Want to Be Your Lover",
                 "artist": "Various Artists, Pan Ron",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_12",
+                "album": "Dengue Fever presents Electric Cambodia",
+                "duration": 202,
+                "spotifyId": "5RvgndE4kFQIqn6YvqWnHR",
                 "previewUrl": null
             },
             {
                 "name": "Asaw Fofor",
                 "artist": "Ignace de Souza & The Melody Aces",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_13",
+                "album": "African Scream Contest 2 (Analog Africa No. 26)",
+                "duration": 175,
+                "spotifyId": "3SOJmlS4fsJPi9tIyPgFdk",
                 "previewUrl": null
             },
             {
                 "name": "Fai Yen",
                 "artist": "Ream Daranoi",
-                "album": "Album Name",
-                "duration": 220,
-                "spotifyId": "track_id_14",
+                "album": "Sound of Siam, Vol. 1 - Leftfield Luk Thung, Jazz & Molam in Thailand 1964-1975",
+                "duration": 274,
+                "spotifyId": "03GamQwl6xu7lxUyPY1CRz",
                 "previewUrl": null
             },
             {
                 "name": "Jibal al Nuba (Mountains of Nuba)",
                 "artist": "Mahmoud Fadl",
-                "album": "Album Name",
-                "duration": 250,
-                "spotifyId": "track_id_15",
+                "album": "Drummers Of The Nile Go South",
+                "duration": 219,
+                "spotifyId": "3QfBM3naXjWU7Tk94jb5f8",
                 "previewUrl": null
             },
             {
                 "name": "Mwanake",
                 "artist": "Yuri Haal, Sofiya Nzau",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_16",
+                "album": "F5",
+                "duration": 215,
+                "spotifyId": "0qzjbdsX7QaqkAqYn0XwNq",
                 "previewUrl": null
             },
             {
                 "name": "Movimento Da Cidade",
                 "artist": "Ary Lobo",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_17",
+                "album": "Ary Lobo",
+                "duration": 144,
+                "spotifyId": "4UQA0mO5ivuwjx3K8AMXWP",
                 "previewUrl": null
             },
             {
                 "name": "Tu Daana",
                 "artist": "Sammy",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_18",
+                "album": "This Is Zologo Beat",
+                "duration": 196,
+                "spotifyId": "4vJ0GFUlaib4x8yESEbkC5",
                 "previewUrl": null
             },
             {
                 "name": "Tana Dery Na",
                 "artist": "Nusrat Fateh Ali Khan",
-                "album": "Album Name",
-                "duration": 280,
-                "spotifyId": "track_id_19",
+                "album": "Mustt Mustt (Real World Gold)",
+                "duration": 266,
+                "spotifyId": "3IWKE5v95gyYG4HbsUrLP6",
                 "previewUrl": null
             },
             {
                 "name": "Leywole",
                 "artist": "Falle Nioke, Ghost Culture",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_20",
+                "album": "Badiare EP",
+                "duration": 311,
+                "spotifyId": "3ImVZoYdSRJdXHpTXaZweG",
                 "previewUrl": null
             },
             {
                 "name": "La maison jaune (edit)",
                 "artist": "Klô Pelgag",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_21",
+                "album": "La maison jaune (edit)",
+                "duration": 246,
+                "spotifyId": "3WtMKaUKG7thWKJstzcKNo",
                 "previewUrl": null
             },
             {
                 "name": "Bécane - A COLORS SHOW",
                 "artist": "Yamê, COLORS",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_22",
+                "album": "Bécane - A COLORS SHOW",
+                "duration": 182,
+                "spotifyId": "3oUEzTAoOxqZHN4xiqTGqJ",
                 "previewUrl": null
             },
             {
                 "name": "Mona Ki Ngi Xica",
                 "artist": "Bonga",
-                "album": "Album Name",
-                "duration": 225,
-                "spotifyId": "track_id_23",
+                "album": "Angola 72/74",
+                "duration": 300,
+                "spotifyId": "08fsjbOK2ruSfbBTcmEZHZ",
                 "previewUrl": null
             },
             {
                 "name": "LA COMBI VERSACE",
                 "artist": "ROSALÍA, Tokischa",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_24",
+                "album": "MOTOMAMI",
+                "duration": 161,
+                "spotifyId": "5gCNf9wMVrYuM2fvfgLTlF",
                 "previewUrl": null
             },
             {
                 "name": "J'aime pas le goût - A COLORS SHOW",
                 "artist": "LYNN",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_25",
+                "album": "J'aime pas le goût - A COLORS SHOW",
+                "duration": 171,
+                "spotifyId": "4hBgGywRo6cpyzW0ZqFQPl",
                 "previewUrl": null
             },
             {
                 "name": "Trøllabundin",
                 "artist": "Eivør",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_26",
+                "album": "Slør",
+                "duration": 270,
+                "spotifyId": "402hkiQ9657VCY5nmIEMMf",
                 "previewUrl": null
             },
             {
                 "name": "Love Story",
                 "artist": "Indila",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_27",
+                "album": "Mini World",
+                "duration": 316,
+                "spotifyId": "6nGeLlakfzlBcFdZXteDq7",
                 "previewUrl": null
             },
             {
                 "name": "LA FAMA",
                 "artist": "ROSALÍA, The Weeknd",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_28",
+                "album": "MOTOMAMI",
+                "duration": 188,
+                "spotifyId": "6Y46tOTRhkBamosyuWa6YX",
                 "previewUrl": null
             },
             {
                 "name": "Il est cinq heures, Paris s'éveille - Remastered 2004",
                 "artist": "Jacques Dutronc",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_29",
+                "album": "Intégrale Les Cactus",
+                "duration": 173,
+                "spotifyId": "16Isj1pqpwyLRJlT7kzkwi",
                 "previewUrl": null
             },
             {
                 "name": "Leyndarmál",
                 "artist": "Ásgeir",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_30",
+                "album": "Dýrð Í Dauðaþögn",
+                "duration": 217,
+                "spotifyId": "0fSPj3MjoggQr2kn2tQIxh",
                 "previewUrl": null
             },
             {
-                "name": "Track 31",
-                "artist": "Artist 31",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_31",
+                "name": "Macho",
+                "artist": "Jaakko Eino Kalevi",
+                "album": "Modern Life",
+                "duration": 245,
+                "spotifyId": "0NVNmybggOg7HqjcxCkvpq",
                 "previewUrl": null
             },
             {
-                "name": "Track 32",
-                "artist": "Artist 32",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_32",
+                "name": "Samhljómur",
+                "artist": "Ásgeir",
+                "album": "In the Silence (The Deluxe Edition)",
+                "duration": 261,
+                "spotifyId": "2ZTf74AmhwKfFopS5CLxuq",
                 "previewUrl": null
             },
             {
-                "name": "Track 33",
-                "artist": "Artist 33",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_33",
+                "name": "Pays imaginaire",
+                "artist": "Polo & Pan",
+                "album": "Caravelle",
+                "duration": 289,
+                "spotifyId": "7i5I4h7r2vkI2r9tgKjy0x",
                 "previewUrl": null
             },
             {
-                "name": "Track 34",
-                "artist": "Artist 34",
-                "album": "Album Name",
+                "name": "Corbeaux",
+                "artist": "Swing, Le Motel",
+                "album": "Marabout",
+                "duration": 227,
+                "spotifyId": "7i7LbPzFjsZpfG3qgiyytX",
+                "previewUrl": null
+            },
+            {
+                "name": "SHUM",
+                "artist": "Go_A",
+                "album": "SHUM",
+                "duration": 172,
+                "spotifyId": "7mEDVrAHDnQJStDo8jKJJm",
+                "previewUrl": null
+            },
+            {
+                "name": "J'ai Deux Amours",
+                "artist": "Madeleine Peyroux, William Galison",
+                "album": "Got You on My Mind",
+                "duration": 197,
+                "spotifyId": "6NBakTExF0Vupk9g9SINyV",
+                "previewUrl": null
+            },
+            {
+                "name": "Anoko no Kare",
+                "artist": "Mayumi Kojima",
+                "album": "Hatachi no Koi (Remastered Version)",
+                "duration": 233,
+                "spotifyId": "3am5aA8gi6lvcYlNKLgZ91",
+                "previewUrl": null
+            },
+            {
+                "name": "Rudeboy",
+                "artist": "Dub Inc",
+                "album": "Diversité",
+                "duration": 311,
+                "spotifyId": "6W5wMeh3tq71DHjgXT38Cq",
+                "previewUrl": null
+            },
+            {
+                "name": "NUEVAYoL",
+                "artist": "Bad Bunny",
+                "album": "DeBÍ TiRAR MáS FOToS",
+                "duration": 183,
+                "spotifyId": "5TFD2bmFKGhoCRbX61nXY5",
+                "previewUrl": null
+            },
+            {
+                "name": "Con Altura",
+                "artist": "ROSALÍA, J Balvin, El Guincho",
+                "album": "Con Altura",
+                "duration": 161,
+                "spotifyId": "2qG5sZ7Si6sdK74qLxedYM",
+                "previewUrl": null
+            },
+            {
+                "name": "Parado no Bailão",
+                "artist": "MC L da Vinte, MC Gury",
+                "album": "Parado no Bailão",
+                "duration": 171,
+                "spotifyId": "3Hb9kUdm4yf839Fle4RIdT",
+                "previewUrl": null
+            },
+            {
+                "name": "Tchuhetén betsèmu",
+                "artist": "Ukandanz",
+                "album": "Awo",
+                "duration": 267,
+                "spotifyId": "5FbDnA5uxNrOs5iUZ1XcV9",
+                "previewUrl": null
+            },
+            {
+                "name": "L’unica chance",
+                "artist": "Adriano Celentano, Bill Brewster",
+                "album": "Late Night Tales Presents After Dark: Nocturne",
+                "duration": 286,
+                "spotifyId": "3voreoHqxZxZNwbEcWuNqn",
+                "previewUrl": null
+            },
+            {
+                "name": "Moribiyassa",
+                "artist": "Kaba Blon",
+                "album": "Music from Saharan Cellphones, Vol. 1",
                 "duration": 220,
-                "spotifyId": "track_id_34",
+                "spotifyId": "6Rkqj5YeHQfbNk7sGQLTnL",
                 "previewUrl": null
             },
             {
-                "name": "Track 35",
-                "artist": "Artist 35",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_35",
+                "name": "Pelota",
+                "artist": "Khruangbin",
+                "album": "Mordechai",
+                "duration": 167,
+                "spotifyId": "1JhKbaSsS9yKMP4whv7bjS",
                 "previewUrl": null
             },
             {
-                "name": "Track 36",
-                "artist": "Artist 36",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_36",
+                "name": "La Verdolaga",
+                "artist": "Totó La Momposina",
+                "album": "Gaitas y Tambores",
+                "duration": 253,
+                "spotifyId": "2C2yFkuhSq76ongQRqvRZS",
                 "previewUrl": null
             },
             {
-                "name": "Track 37",
-                "artist": "Artist 37",
-                "album": "Album Name",
-                "duration": 180,
-                "spotifyId": "track_id_37",
+                "name": "Nisyan",
+                "artist": "Ahmed Fakroun",
+                "album": "Compilation",
+                "duration": 257,
+                "spotifyId": "67OOgbV2tnbkMjWSgIrWMx",
                 "previewUrl": null
             },
             {
-                "name": "Track 38",
-                "artist": "Artist 38",
-                "album": "Album Name",
-                "duration": 215,
-                "spotifyId": "track_id_38",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 39",
-                "artist": "Artist 39",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_39",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 40",
-                "artist": "Artist 40",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_40",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 41",
-                "artist": "Artist 41",
-                "album": "Album Name",
-                "duration": 185,
-                "spotifyId": "track_id_41",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 42",
-                "artist": "Artist 42",
-                "album": "Album Name",
-                "duration": 210,
-                "spotifyId": "track_id_42",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 43",
-                "artist": "Artist 43",
-                "album": "Album Name",
-                "duration": 190,
-                "spotifyId": "track_id_43",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 44",
-                "artist": "Artist 44",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_44",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 45",
-                "artist": "Artist 45",
-                "album": "Album Name",
-                "duration": 175,
-                "spotifyId": "track_id_45",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 46",
-                "artist": "Artist 46",
-                "album": "Album Name",
-                "duration": 205,
-                "spotifyId": "track_id_46",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 47",
-                "artist": "Artist 47",
-                "album": "Album Name",
-                "duration": 195,
-                "spotifyId": "track_id_47",
-                "previewUrl": null
-            },
-            {
-                "name": "Track 48",
-                "artist": "Artist 48",
-                "album": "Album Name",
-                "duration": 200,
-                "spotifyId": "track_id_48",
+                "name": "Nouh Al Hamam",
+                "artist": "Maryam Saleh",
+                "album": "Sawtuha",
+                "duration": 206,
+                "spotifyId": "24f2DgVWl2RgldSL6BTGFh",
                 "previewUrl": null
             }
         ]
@@ -1755,7 +1787,7 @@ const playlists = [
         "duration": 68,
         "spotifyId": "7x93Gu6fniELFZbJs9Pg2L",
         "spotifyUrl": "https://open.spotify.com/playlist/7x93Gu6fniELFZbJs9Pg2L",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
         "lastUpdated": "AAAABA8eQrN1yg20C4gQz7PygkIrK0Ck",
         "tracks": [
             {
@@ -3673,7 +3705,7 @@ const playlists = [
         "duration": 76,
         "spotifyId": "0FiFKk3qzXITrdJ8KatAdJ",
         "spotifyUrl": "https://open.spotify.com/playlist/0FiFKk3qzXITrdJ8KatAdJ",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8430c36be4ed60c83557f7cc10",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8430c36be4ed60c83557f7cc10",
         "lastUpdated": "AAAAA2cLAKnW+2HJlAX9jNjfcBphmrtd",
         "tracks": [
             {
@@ -3768,7 +3800,7 @@ const playlists = [
                 "name": "Happy - From \"Despicable Me 2\"",
                 "artist": "Pharrell Williams",
                 "album": "G I R L",
-                "duration": 232,
+                "duration": 233,
                 "spotifyId": "60nZcImufyMA1MKQY3dcCH",
                 "previewUrl": null
             },
@@ -4082,79 +4114,3 @@ const playlists = [
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = playlists;
 }
-
-// Utility function to format duration in minutes to hours and minutes
-function formatDuration(minutes) {
-    const hours = Math.floor(minutes / 60);
-    const mins = minutes % 60;
-    
-    if (hours > 0) {
-        return `${hours}h ${mins}m`;
-    }
-    return `${mins}m`;
-}
-
-// Create playlist card HTML
-function createPlaylistCard(playlist) {
-    const coverImage = playlist.coverImage || 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&h=640&fit=crop&crop=center';
-    
-    return `
-        <a href="playlist-detail.html?id=${playlist.id}" class="group bg-eggs-light rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-200 hover:border-eggs-accent/50">
-            <div class="aspect-square overflow-hidden relative">
-                <img src="${coverImage}" alt="${playlist.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
-                <div class="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
-                <div class="absolute top-4 right-4 bg-eggs-accent text-white px-3 py-1 rounded-full text-xs font-semibold shadow-lg">
-                    ${playlist.songCount} songs
-                </div>
-            </div>
-            <div class="p-6">
-                <h3 class="font-bold text-eggs-dark text-xl mb-3 line-clamp-2 group-hover:text-eggs-accent transition-colors duration-300">${playlist.title}</h3>
-                <p class="text-gray-600 text-sm mb-4 line-clamp-2">${playlist.description}</p>
-                <div class="flex justify-between items-center text-sm text-gray-500 mb-6">
-                    <span>${formatDuration(playlist.duration)}</span>
-                    <span class="text-eggs-accent font-semibold">Listen Now</span>
-                </div>
-            </div>
-        </a>
-    `;
-}
-
-// Render all playlist cards
-function renderPlaylists() {
-    const grid = document.getElementById('playlistsGrid');
-    if (!grid) return;
-    
-    grid.innerHTML = playlists.map(playlist => createPlaylistCard(playlist)).join('');
-}
-
-// Get playlist by ID
-function getPlaylistById(id) {
-    return playlists.find(playlist => playlist.id === id);
-}
-
-// Get URL parameters
-function getUrlParameter(name) {
-    const urlParams = new URLSearchParams(window.location.search);
-    return urlParams.get(name);
-}
-
-// Initialize the page
-document.addEventListener('DOMContentLoaded', function() {
-    // Check if we're on the detail page
-    const playlistId = getUrlParameter('id');
-    
-    if (playlistId && window.location.pathname.includes('playlist-detail.html')) {
-        // This is a detail page - the detail page will handle its own rendering
-        return;
-    }
-    
-    // This is the main page - render playlists
-    renderPlaylists();
-});
-
-// Export functions for use in detail page
-window.EGGSRadio = {
-    playlists,
-    getPlaylistById,
-    formatDuration
-};
