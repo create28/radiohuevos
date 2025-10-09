@@ -4160,3 +4160,14 @@ function renderPlaylists() {
 
 // Initialize when DOM is loaded
 document.addEventListener('DOMContentLoaded', renderPlaylists);
+
+// Create EGGSRadio namespace for playlist detail page
+window.EGGSRadio = {
+    // Get playlist by ID
+    getPlaylistById: function(id) {
+        return playlists.find(playlist => playlist.id === id);
+    },
+    
+    // Format duration function
+    formatDuration: formatDuration
+};
