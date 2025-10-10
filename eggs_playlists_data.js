@@ -1,6 +1,460 @@
 // EGGS Radio playlist data - Auto-generated
 const playlists = [
     {
+        "id": "eggs-hstmusik",
+        "title": "EGGS • Høstmusik",
+        "description": "Auto-generated playlist for theme: Høstmusik",
+        "theme": "Høstmusik",
+        "songCount": 55,
+        "duration": 209,
+        "spotifyId": "6suYNGaBF0fwDnAZRWmHjT",
+        "spotifyUrl": "https://open.spotify.com/playlist/6suYNGaBF0fwDnAZRWmHjT",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e026d73f9df50d2aab2f4dfcf8fab67616d00001e027217ddc2c53d7a98ca6fa864ab67616d00001e02d6839051c4760457e1a60b2aab67616d00001e02de3c04b5fc750b68899b20a9",
+        "lastUpdated": "AAAAAo+82QMEy35ltfvz090vhCptfMos",
+        "tracks": [
+            {
+                "name": "Clear in the Eye",
+                "artist": "Ocie Elliott",
+                "album": "EP",
+                "duration": 167,
+                "spotifyId": "0k4YE3HGEbjgw7bz5mqctk",
+                "previewUrl": null
+            },
+            {
+                "name": "we fell in love in october",
+                "artist": "girl in red",
+                "album": "we fell in love in october / forget her",
+                "duration": 184,
+                "spotifyId": "1BYZxKSf0aTxp8ZFoeyM3d",
+                "previewUrl": null
+            },
+            {
+                "name": "All I Need",
+                "artist": "Radiohead",
+                "album": "In Rainbows",
+                "duration": 228,
+                "spotifyId": "51ygW389BW4Dut3B69pSwc",
+                "previewUrl": null
+            },
+            {
+                "name": "Dagane",
+                "artist": "Odd Nordstoga",
+                "album": "Heim te mor",
+                "duration": 262,
+                "spotifyId": "7ro2qgyaNVi3IItIXVAgEA",
+                "previewUrl": null
+            },
+            {
+                "name": "Mary",
+                "artist": "Agnes Obel",
+                "album": "Citizen of Glass",
+                "duration": 347,
+                "spotifyId": "5BBFzEZHejmSWKoFpcLM9F",
+                "previewUrl": null
+            },
+            {
+                "name": "Life Round Here",
+                "artist": "James Blake",
+                "album": "Overgrown",
+                "duration": 217,
+                "spotifyId": "2746pcTPaE9FBHkvUivCsg",
+                "previewUrl": null
+            },
+            {
+                "name": "Lucerne",
+                "artist": "Richy Mitch & The Coal Miners",
+                "album": "RMCM",
+                "duration": 282,
+                "spotifyId": "5FQAVPtRADIWBGZUu4K2dk",
+                "previewUrl": null
+            },
+            {
+                "name": "Ill Wind",
+                "artist": "Radiohead",
+                "album": "Ill Wind",
+                "duration": 254,
+                "spotifyId": "7vuVUQV0dDnjXUyLPzJLPi",
+                "previewUrl": null
+            },
+            {
+                "name": "Why Don't You",
+                "artist": "Cleo Sol",
+                "album": "Why Don't You",
+                "duration": 232,
+                "spotifyId": "64ka8E2PpNo4NxSCiRBj1H",
+                "previewUrl": null
+            },
+            {
+                "name": "Red Clay",
+                "artist": "Charlotte Dos Santos",
+                "album": "Cleo",
+                "duration": 147,
+                "spotifyId": "5Aq6pBRhKbfaYW8yffxPJn",
+                "previewUrl": null
+            },
+            {
+                "name": "The Brothel",
+                "artist": "Susanne Sundfør",
+                "album": "The Brothel",
+                "duration": 375,
+                "spotifyId": "0ZrRfFSH6kNp62zUXMDOlu",
+                "previewUrl": null
+            },
+            {
+                "name": "Brave",
+                "artist": "Joy Crookes",
+                "album": "Juniper",
+                "duration": 234,
+                "spotifyId": "288HSFmURcl6yxx4c5tFdr",
+                "previewUrl": null
+            },
+            {
+                "name": "A Light in the Addict (feat. Party Supplies and Black Atlass)",
+                "artist": "Action Bronson, Party Supplies, Black Atlass",
+                "album": "Mr. Wonderful",
+                "duration": 356,
+                "spotifyId": "5GisqerxbZF3muext15vM4",
+                "previewUrl": null
+            },
+            {
+                "name": "’Tis Autumn",
+                "artist": "Nat King Cole",
+                "album": "BD Music & Cabu Present Nat King Cole",
+                "duration": 189,
+                "spotifyId": "6sQruAh3HYroK1zT8PUrea",
+                "previewUrl": null
+            },
+            {
+                "name": "When You Were Mine",
+                "artist": "Joy Crookes",
+                "album": "Skin",
+                "duration": 203,
+                "spotifyId": "3zSwFE91EdwhEwS6vnJohB",
+                "previewUrl": null
+            },
+            {
+                "name": "No One's Watching Me (feat. Olivia Dean)",
+                "artist": "Ezra Collective, Olivia Dean",
+                "album": "Dance, No One's Watching",
+                "duration": 262,
+                "spotifyId": "70VTTe96UJ9QUyFYbsnW5V",
+                "previewUrl": null
+            },
+            {
+                "name": "deep in it",
+                "artist": "berlioz, Ted Jasper",
+                "album": "deep in it",
+                "duration": 154,
+                "spotifyId": "3J2WUEn6oFN8eDPZov7w9I",
+                "previewUrl": null
+            },
+            {
+                "name": "Cowpoke",
+                "artist": "Colter Wall",
+                "album": "Western Swing & Waltzes and Other Punchy Songs",
+                "duration": 192,
+                "spotifyId": "0QJKUh0ga2ubfuVs8DM7bq",
+                "previewUrl": null
+            },
+            {
+                "name": "I Waited for You",
+                "artist": "Daniel Norgren",
+                "album": "The Green Stone",
+                "duration": 204,
+                "spotifyId": "72ekaAHOCACTFM9C5DQ9uw",
+                "previewUrl": null
+            },
+            {
+                "name": "Autumn In New York",
+                "artist": "Billie Holiday",
+                "album": "Recital",
+                "duration": 224,
+                "spotifyId": "3ZD4mt9y6bP2MTEzHMPOM8",
+                "previewUrl": null
+            },
+            {
+                "name": "September Fields",
+                "artist": "Frazey Ford",
+                "album": "Indian Ocean",
+                "duration": 207,
+                "spotifyId": "550Z8MoCCRXnAE83dxCqfz",
+                "previewUrl": null
+            },
+            {
+                "name": "In Your Eyes (feat. Charlotte Day Wilson)",
+                "artist": "BADBADNOTGOOD, Charlotte Day Wilson",
+                "album": "IV",
+                "duration": 247,
+                "spotifyId": "1JSF6Op8037UrfaqROkRG6",
+                "previewUrl": null
+            },
+            {
+                "name": "Cranes in the Sky",
+                "artist": "Solange",
+                "album": "A Seat at the Table",
+                "duration": 250,
+                "spotifyId": "48EjSdYh8wz2gBxxqzrsLe",
+                "previewUrl": null
+            },
+            {
+                "name": "She Treats Me Well",
+                "artist": "Ben Howard",
+                "album": "I Forget Where We Were",
+                "duration": 317,
+                "spotifyId": "5N1itNLaYtifU8YVbg9SBQ",
+                "previewUrl": null
+            },
+            {
+                "name": "Wander",
+                "artist": "Kevin Morby",
+                "album": "Sundowner",
+                "duration": 114,
+                "spotifyId": "5y5wWdrhr4LvL64MNs4AwO",
+                "previewUrl": null
+            },
+            {
+                "name": "Towers",
+                "artist": "Bon Iver",
+                "album": "Bon Iver",
+                "duration": 185,
+                "spotifyId": "5bONyJmreiAacZiP0RXB2v",
+                "previewUrl": null
+            },
+            {
+                "name": "Dirty Work",
+                "artist": "Steely Dan",
+                "album": "Showbiz Kids: The Steely Dan Story 1972 - 1980 (Remastered)",
+                "duration": 188,
+                "spotifyId": "32TK5vlGZhlthpYmXfzLPf",
+                "previewUrl": null
+            },
+            {
+                "name": "Swim Good",
+                "artist": "Frank Ocean",
+                "album": "Swim Good",
+                "duration": 257,
+                "spotifyId": "0ytw2owVvegkIS87txqV1O",
+                "previewUrl": null
+            },
+            {
+                "name": "Packt Like Sardines In a Crushd Tin Box",
+                "artist": "Radiohead",
+                "album": "Amnesiac",
+                "duration": 240,
+                "spotifyId": "0tDn82XkoueVV5q9G7OUAv",
+                "previewUrl": null
+            },
+            {
+                "name": "Wayfaring Pilgrim",
+                "artist": "Roy Buchanan",
+                "album": "In The Beginning",
+                "duration": 308,
+                "spotifyId": "6yJ6VtC0IQ4BC47Aj6MkZ3",
+                "previewUrl": null
+            },
+            {
+                "name": "Foxes in the Snow",
+                "artist": "Jason Isbell",
+                "album": "Foxes in the Snow",
+                "duration": 200,
+                "spotifyId": "5zz6QUSbVsIbyZUJhGdO0T",
+                "previewUrl": null
+            },
+            {
+                "name": "Tiger Mountain Peasant Song",
+                "artist": "Fleet Foxes",
+                "album": "Fleet Foxes",
+                "duration": 208,
+                "spotifyId": "2hNvu4bGZFOoop3PbornV2",
+                "previewUrl": null
+            },
+            {
+                "name": "Autumn Leaves",
+                "artist": "Nat King Cole",
+                "album": "Nat King Cole - Unforgettable",
+                "duration": 161,
+                "spotifyId": "4cBpmIjCDJ9k5o0EHaDZkp",
+                "previewUrl": null
+            },
+            {
+                "name": "Unfucktheworld",
+                "artist": "Angel Olsen",
+                "album": "Burn Your Fire For No Witness (Deluxe Edition)",
+                "duration": 125,
+                "spotifyId": "2NE61HPxiQyPbNhggQqrzG",
+                "previewUrl": null
+            },
+            {
+                "name": "The System Only Dreams in Total Darkness",
+                "artist": "The National",
+                "album": "Sleep Well Beast",
+                "duration": 236,
+                "spotifyId": "612R6rJlv9N3wpljUpT8Ja",
+                "previewUrl": null
+            },
+            {
+                "name": "Golden Days",
+                "artist": "Whitney",
+                "album": "Light Upon the Lake",
+                "duration": 242,
+                "spotifyId": "1oy0UIGzuqIPBkOsjojeJ1",
+                "previewUrl": null
+            },
+            {
+                "name": "Autumn In New York",
+                "artist": "Ella Fitzgerald, Louis Armstrong",
+                "album": "Ella And Louis Again",
+                "duration": 356,
+                "spotifyId": "0f2489MzoisF9pKduawvce",
+                "previewUrl": null
+            },
+            {
+                "name": "When I Fall In Love",
+                "artist": "Bill Evans",
+                "album": "The Solo Sessions",
+                "duration": 182,
+                "spotifyId": "0wTzwfSmGUCjrhBnPMrcq5",
+                "previewUrl": null
+            },
+            {
+                "name": "Spooky",
+                "artist": "Dusty Springfield",
+                "album": "Dusty... Definitely (Expanded Edtion)",
+                "duration": 164,
+                "spotifyId": "3MtP9T0WF4xbIo8vqHYeXM",
+                "previewUrl": null
+            },
+            {
+                "name": "Ain't No Sunshine",
+                "artist": "Bill Withers",
+                "album": "Just As I Am",
+                "duration": 125,
+                "spotifyId": "1k1Bqnv2R0uJXQN4u6LKYt",
+                "previewUrl": null
+            },
+            {
+                "name": "The Puzzle",
+                "artist": "Ane Brun",
+                "album": "Changing of the Seasons",
+                "duration": 174,
+                "spotifyId": "3yZxgWzlsPi6RBXpH535xY",
+                "previewUrl": null
+            },
+            {
+                "name": "Duet",
+                "artist": "Gonjasufi",
+                "album": "A Sufi And A Killer (Bonus Track Version)",
+                "duration": 186,
+                "spotifyId": "4YnsHOs6LONHQS4oTCMY6d",
+                "previewUrl": null
+            },
+            {
+                "name": "Don't Look Back In Anger",
+                "artist": "Devendra Banhart",
+                "album": "Guilt By Association (Digital-Only Bonus Version)",
+                "duration": 231,
+                "spotifyId": "7AlVeahkUlCgpkA1VKAT3e",
+                "previewUrl": null
+            },
+            {
+                "name": "Down the Line",
+                "artist": "José González",
+                "album": "In Our Nature",
+                "duration": 190,
+                "spotifyId": "4Nxuh5S1ljE1DkxXU9Bk29",
+                "previewUrl": null
+            },
+            {
+                "name": "Walking This Dumb - Live",
+                "artist": "How To Dress Well",
+                "album": "Love Remains",
+                "duration": 176,
+                "spotifyId": "1BA2BZHX7oZWVpyTDNKNcl",
+                "previewUrl": null
+            },
+            {
+                "name": "Belong",
+                "artist": "Washed Out",
+                "album": "High Times",
+                "duration": 173,
+                "spotifyId": "1VNZWu2xi8RprnAuj8cEMv",
+                "previewUrl": null
+            },
+            {
+                "name": "The Healer",
+                "artist": "Erykah Badu",
+                "album": "New Amerykah Part One (4th World War)",
+                "duration": 239,
+                "spotifyId": "7otmKWoMlpWkrMnnIQHXEg",
+                "previewUrl": null
+            },
+            {
+                "name": "Mina damer och fasaner",
+                "artist": "Dungen",
+                "album": "4",
+                "duration": 222,
+                "spotifyId": "71Re3mdqlDRFWtM0zAhcrm",
+                "previewUrl": null
+            },
+            {
+                "name": "The Golden Throne",
+                "artist": "Temples",
+                "album": "Sun Structures",
+                "duration": 250,
+                "spotifyId": "5KXtkjPFiKhgUw07zTEYeV",
+                "previewUrl": null
+            },
+            {
+                "name": "Helt Ok Typ",
+                "artist": "Cleo, Academics",
+                "album": "Missaoui",
+                "duration": 207,
+                "spotifyId": "1fHnIhCAoftPxiXdaQx0fK",
+                "previewUrl": null
+            },
+            {
+                "name": "Ett & noll",
+                "artist": "Bo Kaspers Orkester",
+                "album": "Amerika",
+                "duration": 246,
+                "spotifyId": "3yF7TcLTBAaPsPhTschDrF",
+                "previewUrl": null
+            },
+            {
+                "name": "Wild Is the Wind - 2016 Remaster",
+                "artist": "David Bowie",
+                "album": "Station to Station (2016 Remaster)",
+                "duration": 366,
+                "spotifyId": "7ynwkFhXbrQqnMIWqFfRUS",
+                "previewUrl": null
+            },
+            {
+                "name": "Into My Arms",
+                "artist": "Nick Cave & The Bad Seeds",
+                "album": "The Boatman's Call (2011 - Remaster)",
+                "duration": 256,
+                "spotifyId": "39CFOvYse9fcMhIwyS73Fl",
+                "previewUrl": null
+            },
+            {
+                "name": "Johnny and Mary",
+                "artist": "Todd Terje, Bryan Ferry",
+                "album": "It's Album Time",
+                "duration": 392,
+                "spotifyId": "4DpDrLYI6CQIYw1VFeBR4o",
+                "previewUrl": null
+            },
+            {
+                "name": "Why Aye Man - Radio Edit",
+                "artist": "Mark Knopfler",
+                "album": "The Best of Dire Straits & Mark Knopfler - Private Investigations(Double CD) [2CD - Poland Version]",
+                "duration": 249,
+                "spotifyId": "0HJIWsXxUSApDmmMAObYdG",
+                "previewUrl": null
+            }
+        ]
+    },
+    {
         "id": "eggs-great-workout-songs",
         "title": "EGGS • Great workout songs",
         "description": "Auto-generated playlist for theme: Great workout songs",
@@ -1787,7 +2241,7 @@ const playlists = [
         "duration": 68,
         "spotifyId": "7x93Gu6fniELFZbJs9Pg2L",
         "spotifyUrl": "https://open.spotify.com/playlist/7x93Gu6fniELFZbJs9Pg2L",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
         "lastUpdated": "AAAABA8eQrN1yg20C4gQz7PygkIrK0Ck",
         "tracks": [
             {
@@ -2189,7 +2643,7 @@ const playlists = [
         "duration": 75,
         "spotifyId": "62sOlXRFWEpt18Z1gQRPVB",
         "spotifyUrl": "https://open.spotify.com/playlist/62sOlXRFWEpt18Z1gQRPVB",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a0dfd4d86f3310b31e55775",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846a0dfd4d86f3310b31e55775",
         "lastUpdated": "AAAAA8q2PbXJNwjfWhe+7NwD9oYiEpLE",
         "tracks": [
             {
@@ -2355,7 +2809,7 @@ const playlists = [
         "duration": 271,
         "spotifyId": "61IvU1rXVRoyy9qPR56YAV",
         "spotifyUrl": "https://open.spotify.com/playlist/61IvU1rXVRoyy9qPR56YAV",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842f0110cab13d898b5905ea76",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842f0110cab13d898b5905ea76",
         "lastUpdated": "AAAABR3cIOAWf6eDmh4pek/yiIM86qg9",
         "tracks": [
             {
@@ -2921,7 +3375,7 @@ const playlists = [
         "duration": 77,
         "spotifyId": "0TRl0kWjqv0qe2iECjxC17",
         "spotifyUrl": "https://open.spotify.com/playlist/0TRl0kWjqv0qe2iECjxC17",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8448abaa99652ab881037ef149",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8448abaa99652ab881037ef149",
         "lastUpdated": "AAAABqAMvAr+cLNzV/+kZMspcURLAece",
         "tracks": [
             {
@@ -3087,7 +3541,7 @@ const playlists = [
         "duration": 117,
         "spotifyId": "52goZcf2nGJ33e3lgLfxxr",
         "spotifyUrl": "https://open.spotify.com/playlist/52goZcf2nGJ33e3lgLfxxr",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843983643ac9c44a8895b5f276",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843983643ac9c44a8895b5f276",
         "lastUpdated": "AAAAA0lQuEaAjddLmBkrEyLK4HYqGtu5",
         "tracks": [
             {
@@ -3108,7 +3562,7 @@ const playlists = [
             },
             {
                 "name": "Riccione",
-                "artist": "Thegiornalisti",
+                "artist": "Thegiornalisti, Tommaso Paradiso",
                 "album": "Riccione",
                 "duration": 196,
                 "spotifyId": "6RiprjTTheMrJ2ypJxz3H4",
@@ -3459,7 +3913,7 @@ const playlists = [
         "duration": 102,
         "spotifyId": "0k4aDh9a0mj11UNQbZqckR",
         "spotifyUrl": "https://open.spotify.com/playlist/0k4aDh9a0mj11UNQbZqckR",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cedc338b2f3edb2c762a7b2b",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84cedc338b2f3edb2c762a7b2b",
         "lastUpdated": "AAAABRWrG3FJbpLglawBMOKZzk4pfrLz",
         "tracks": [
             {
@@ -3705,7 +4159,7 @@ const playlists = [
         "duration": 76,
         "spotifyId": "0FiFKk3qzXITrdJ8KatAdJ",
         "spotifyUrl": "https://open.spotify.com/playlist/0FiFKk3qzXITrdJ8KatAdJ",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8430c36be4ed60c83557f7cc10",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8430c36be4ed60c83557f7cc10",
         "lastUpdated": "AAAAA2cLAKnW+2HJlAX9jNjfcBphmrtd",
         "tracks": [
             {
@@ -3848,7 +4302,7 @@ const playlists = [
                 "name": "The Dark Of The Matinée",
                 "artist": "Franz Ferdinand",
                 "album": "Franz Ferdinand",
-                "duration": 246,
+                "duration": 243,
                 "spotifyId": "6gaWfLDoeG1eoiDAVBN4i8",
                 "previewUrl": null
             },
