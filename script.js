@@ -4750,20 +4750,20 @@ function createPlaylistCard(playlist) {
     const coverImage = playlist.coverImage || 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=640&h=640&fit=crop&crop=center';
     
     return `
-        <a href="playlist-detail.html?id=${playlist.id}" class="group bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-200 hover:border-blue-500/50">
+        <a href="playlist-detail.html?id=${playlist.id}" class="group bg-eggs-light rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden border border-gray-200 hover:border-eggs-accent/50">
             <div class="aspect-square overflow-hidden relative">
                 <img src="${coverImage}" alt="${playlist.title}" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300">
                 <div class="absolute inset-0 bg-black/10 group-hover:bg-black/5 transition-colors duration-300"></div>
-                <div class="absolute top-4 right-4 bg-blue-500 text-white px-3 py-1 rounded-full text-xs font-semibold shadow-lg">
+                <div class="absolute top-4 right-4 bg-eggs-accent text-white px-3 py-1 rounded-full text-xs font-semibold shadow-lg">
                     ${playlist.songCount} songs
                 </div>
             </div>
             <div class="p-6">
-                <h3 class="font-bold text-gray-900 text-xl mb-3 line-clamp-2 group-hover:text-blue-600 transition-colors duration-300">${playlist.title}</h3>
+                <h3 class="font-bold text-eggs-dark text-xl mb-3 line-clamp-2 group-hover:text-eggs-accent transition-colors duration-300">${playlist.title}</h3>
                 <p class="text-gray-600 text-sm mb-4 line-clamp-2">${playlist.description}</p>
                 <div class="flex justify-between items-center text-sm text-gray-500 mb-6">
                     <span>${formatDuration(playlist.duration)}</span>
-                    <span class="text-blue-500 font-semibold">Listen Now</span>
+                    <span class="text-eggs-accent font-semibold">Listen Now</span>
                 </div>
             </div>
         </a>
