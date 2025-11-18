@@ -7,23 +7,31 @@
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
     <title>Radio Huevos</title>
-    <script src="https://cdn.tailwindcss.com?3"></script>
+    <script src="https://cdn.tailwindcss.com?3" onload="configureTailwind()"></script>
     <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    fontFamily: {
-                        'sans': ['Inter', 'system-ui', 'sans-serif'],
-                    },
-                    colors: {
-                        'eggs-light': '#ffffff',
-                        'eggs-gray': '#f8f9fa',
-                        'eggs-dark': '#374151',
-                        'eggs-accent': '#6366f1',
+        function configureTailwind() {
+            if (typeof tailwind !== 'undefined') {
+                tailwind.config = {
+                    theme: {
+                        extend: {
+                            fontFamily: {
+                                'sans': ['Inter', 'system-ui', 'sans-serif'],
+                            },
+                            colors: {
+                                'eggs-light': '#ffffff',
+                                'eggs-gray': '#f8f9fa',
+                                'eggs-dark': '#374151',
+                                'eggs-accent': '#6366f1',
+                            }
+                        }
                     }
-                }
+                };
             }
         }
+        // Fallback in case onload doesn't fire
+        window.addEventListener('load', function() {
+            setTimeout(configureTailwind, 100);
+        });
     </script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
