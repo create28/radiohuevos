@@ -211,3 +211,5 @@ def generate_javascript_data(playlists: List[Dict]) -> str:
 
 if __name__ == "__main__":
     main()
+
+

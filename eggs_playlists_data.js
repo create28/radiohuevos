@@ -1,6 +1,172 @@
 // EGGS Radio playlist data - Auto-generated
 const playlists = [
     {
+        "id": "eggs-cozy-songs-to-listen-when-it-rains-outside",
+        "title": "EGGS • Cozy songs to listen when it rains outside",
+        "description": "Auto-generated playlist for theme: Cozy songs to listen when it rains outside",
+        "theme": "Cozy songs to listen when it rains outside",
+        "songCount": 19,
+        "duration": 66,
+        "spotifyId": "1nKX7mOa50osM2hAXbIKxF",
+        "spotifyUrl": "https://open.spotify.com/playlist/1nKX7mOa50osM2hAXbIKxF",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0212b7374453d8463c512f726eab67616d00001e02628dba01c669d89586967dc5ab67616d00001e02ae154b5fbf59dee01fa1ad14ab67616d00001e02e8f427e22592b343cd3108a6",
+        "lastUpdated": "AAAAAY8eI2fwEQxhLkGJipr+SevpKTj/",
+        "tracks": [
+            {
+                "name": "Banana Pancakes",
+                "artist": "Jack Johnson",
+                "album": "In Between Dreams",
+                "duration": 191,
+                "spotifyId": "0BgbobvykXxEvxo2HhCuvM",
+                "previewUrl": null
+            },
+            {
+                "name": "Fatal Line",
+                "artist": "1969 Collective, Half Moon Run",
+                "album": "Fatal Line",
+                "duration": 181,
+                "spotifyId": "60TzCPjii0JKAQtQTENYpn",
+                "previewUrl": null
+            },
+            {
+                "name": "Orange Blood",
+                "artist": "Mt. Joy",
+                "album": "Orange Blood",
+                "duration": 226,
+                "spotifyId": "1672RT45nXNUb28fzzPxn8",
+                "previewUrl": null
+            },
+            {
+                "name": "Sabor Dulce",
+                "artist": "Los Belkings",
+                "album": "Los Belkings (Ayer y Hoy)",
+                "duration": 208,
+                "spotifyId": "2Xlx1ATkGYjYjmNn0w7O59",
+                "previewUrl": null
+            },
+            {
+                "name": "A Change Is Gonna Come - Live from BBC/Radio 1",
+                "artist": "Fugees",
+                "album": "Greatest Hits",
+                "duration": 165,
+                "spotifyId": "1ZkPRiksGnyKEhNhavAMvh",
+                "previewUrl": null
+            },
+            {
+                "name": "Lisboa",
+                "artist": "ANAVITÓRIA, Lenine",
+                "album": "COR",
+                "duration": 219,
+                "spotifyId": "2o2xhyri4aJUtgMGkf5P0J",
+                "previewUrl": null
+            },
+            {
+                "name": "Rum And Coca-Cola - Single Version",
+                "artist": "The Andrews Sisters",
+                "album": "Bei mir bist Du schön (Jazz Club)",
+                "duration": 188,
+                "spotifyId": "2wfvv72QO8mcsCj6bu2xF6",
+                "previewUrl": null
+            },
+            {
+                "name": "Fire And Rain",
+                "artist": "James Taylor",
+                "album": "Rhino Hi-Five: James Taylor",
+                "duration": 202,
+                "spotifyId": "2fFukMZncs29A8kuekOzqO",
+                "previewUrl": null
+            },
+            {
+                "name": "Josefin",
+                "artist": "Albin Lee Meldau",
+                "album": "Josefin",
+                "duration": 221,
+                "spotifyId": "2gwirjNHYJPlBwOJ5Aftwv",
+                "previewUrl": null
+            },
+            {
+                "name": "Catholic Country",
+                "artist": "Kings of Convenience, Feist",
+                "album": "Peace Or Love",
+                "duration": 181,
+                "spotifyId": "4sIGvv9NQzQ9JCpKXRANb3",
+                "previewUrl": null
+            },
+            {
+                "name": "Mr. Bojangles",
+                "artist": "Nina Simone",
+                "album": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+                "duration": 298,
+                "spotifyId": "1fhVIXrRDlJVqa9EOzPIBd",
+                "previewUrl": null
+            },
+            {
+                "name": "I'm Gonna Sit Right Down and Write Myself a Letter",
+                "artist": "Frank Sinatra",
+                "album": "All of Me",
+                "duration": 148,
+                "spotifyId": "7EYZLxMf52BPtECrZbhaJF",
+                "previewUrl": null
+            },
+            {
+                "name": "In The Waiting Line",
+                "artist": "Zero 7, Sophie Barker",
+                "album": "Simple Things",
+                "duration": 272,
+                "spotifyId": "6EOJjwcPgGWe98IDyCsBmY",
+                "previewUrl": null
+            },
+            {
+                "name": "When It Rains",
+                "artist": "Paramore",
+                "album": "Riot!",
+                "duration": 215,
+                "spotifyId": "5MNsy8G3K0Y09QFpktzyrj",
+                "previewUrl": null
+            },
+            {
+                "name": "El Búho",
+                "artist": "Blanco White",
+                "album": "Colder Heavens - EP",
+                "duration": 231,
+                "spotifyId": "0P52wuYOxOXkRioz4hFYzW",
+                "previewUrl": null
+            },
+            {
+                "name": "Blackbird - Remastered 2009",
+                "artist": "The Beatles",
+                "album": "The Beatles (Remastered)",
+                "duration": 138,
+                "spotifyId": "5jgFfDIR6FR0gvlA56Nakr",
+                "previewUrl": null
+            },
+            {
+                "name": "Billie Bossa Nova",
+                "artist": "Billie Eilish",
+                "album": "Happier Than Ever",
+                "duration": 196,
+                "spotifyId": "2KnuaZYoGzDoHiBTNYOTXG",
+                "previewUrl": null
+            },
+            {
+                "name": "No Milk Today - Mono Version",
+                "artist": "Herman's Hermits",
+                "album": "A's, B's & EP's",
+                "duration": 174,
+                "spotifyId": "02Y0CtzmhTLjTOg0cWvAhq",
+                "previewUrl": null
+            },
+            {
+                "name": "Last January",
+                "artist": "The Twilight Sad",
+                "album": "Nobody Wants to Be Here & Nobody Wants to Leave",
+                "duration": 311,
+                "spotifyId": "2aGVqsq74M9hZkGDx6KZ0T",
+                "previewUrl": null
+            }
+        ]
+    },
+    {
         "id": "eggs-hstmusik",
         "title": "EGGS • Høstmusik",
         "description": "Auto-generated playlist for theme: Høstmusik",
@@ -940,7 +1106,7 @@ const playlists = [
                 "name": "LA COMBI VERSACE",
                 "artist": "ROSALÍA, Tokischa",
                 "album": "MOTOMAMI",
-                "duration": 161,
+                "duration": 160,
                 "spotifyId": "5gCNf9wMVrYuM2fvfgLTlF",
                 "previewUrl": null
             },
@@ -1466,7 +1632,7 @@ const playlists = [
                 "name": "Money",
                 "artist": "Pink Floyd",
                 "album": "The Dark Side of the Moon",
-                "duration": 382,
+                "duration": 380,
                 "spotifyId": "0vFOzaXqZHahrZp6enQwQb",
                 "previewUrl": null
             },
@@ -1823,7 +1989,7 @@ const playlists = [
         "duration": 32,
         "spotifyId": "7Chyi44kSJE3UIUbAhtj2J",
         "spotifyUrl": "https://open.spotify.com/playlist/7Chyi44kSJE3UIUbAhtj2J",
-        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e023a8e33808d13f8395ef5fbd3ab67616d00001e02690f24d5246ae313437bd2fcab67616d00001e028b8696c67236ba5dc2be83d7ab67616d00001e02abe687f283b1d50a8c67a94d",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e023a8e33808d13f8395ef5fbd3ab67616d00001e02690f24d5246ae313437bd2fcab67616d00001e028b8696c67236ba5dc2be83d7ab67616d00001e02f28c5d14033fa3942afaf1c2",
         "lastUpdated": "AAAAAmHv9Ak3sgP5t3+pC8xKNq3o7k+w",
         "tracks": [
             {
@@ -2241,7 +2407,7 @@ const playlists = [
         "duration": 68,
         "spotifyId": "7x93Gu6fniELFZbJs9Pg2L",
         "spotifyUrl": "https://open.spotify.com/playlist/7x93Gu6fniELFZbJs9Pg2L",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847113dcc5d418f2f791887d10",
         "lastUpdated": "AAAABA8eQrN1yg20C4gQz7PygkIrK0Ck",
         "tracks": [
             {
@@ -2643,7 +2809,7 @@ const playlists = [
         "duration": 75,
         "spotifyId": "62sOlXRFWEpt18Z1gQRPVB",
         "spotifyUrl": "https://open.spotify.com/playlist/62sOlXRFWEpt18Z1gQRPVB",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846a0dfd4d86f3310b31e55775",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a0dfd4d86f3310b31e55775",
         "lastUpdated": "AAAAA8q2PbXJNwjfWhe+7NwD9oYiEpLE",
         "tracks": [
             {
@@ -2809,7 +2975,7 @@ const playlists = [
         "duration": 271,
         "spotifyId": "61IvU1rXVRoyy9qPR56YAV",
         "spotifyUrl": "https://open.spotify.com/playlist/61IvU1rXVRoyy9qPR56YAV",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842f0110cab13d898b5905ea76",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842f0110cab13d898b5905ea76",
         "lastUpdated": "AAAABR3cIOAWf6eDmh4pek/yiIM86qg9",
         "tracks": [
             {
@@ -3117,7 +3283,7 @@ const playlists = [
                 "previewUrl": null
             },
             {
-                "name": "Freed From Desire - prod. Molella, Phil Jay",
+                "name": "Freed From Desire",
                 "artist": "Gala, Molella, Phil Jay",
                 "album": "Come Into My Life (The Album)",
                 "duration": 213,
@@ -3375,7 +3541,7 @@ const playlists = [
         "duration": 77,
         "spotifyId": "0TRl0kWjqv0qe2iECjxC17",
         "spotifyUrl": "https://open.spotify.com/playlist/0TRl0kWjqv0qe2iECjxC17",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8448abaa99652ab881037ef149",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8448abaa99652ab881037ef149",
         "lastUpdated": "AAAABqAMvAr+cLNzV/+kZMspcURLAece",
         "tracks": [
             {
@@ -3541,7 +3707,7 @@ const playlists = [
         "duration": 117,
         "spotifyId": "52goZcf2nGJ33e3lgLfxxr",
         "spotifyUrl": "https://open.spotify.com/playlist/52goZcf2nGJ33e3lgLfxxr",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843983643ac9c44a8895b5f276",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843983643ac9c44a8895b5f276",
         "lastUpdated": "AAAAA0lQuEaAjddLmBkrEyLK4HYqGtu5",
         "tracks": [
             {
@@ -3779,7 +3945,7 @@ const playlists = [
         "duration": 67,
         "spotifyId": "0DxGWeDJWAU9EybNGzxrvm",
         "spotifyUrl": "https://open.spotify.com/playlist/0DxGWeDJWAU9EybNGzxrvm",
-        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8441c0fc1268a987d2ba69dce9",
+        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8441c0fc1268a987d2ba69dce9",
         "lastUpdated": "AAAABBCU/hLY8vperS+M2A+/MUjFHHOD",
         "tracks": [
             {
@@ -3913,7 +4079,7 @@ const playlists = [
         "duration": 102,
         "spotifyId": "0k4aDh9a0mj11UNQbZqckR",
         "spotifyUrl": "https://open.spotify.com/playlist/0k4aDh9a0mj11UNQbZqckR",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84cedc338b2f3edb2c762a7b2b",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cedc338b2f3edb2c762a7b2b",
         "lastUpdated": "AAAABRWrG3FJbpLglawBMOKZzk4pfrLz",
         "tracks": [
             {
