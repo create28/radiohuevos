@@ -5030,11 +5030,25 @@ function createPlaylistCard(playlist) {
 // Render all playlist cards
 function renderPlaylists() {
     const grid = document.getElementById('playlistsGrid');
+    const loadingIndicator = document.getElementById('loadingIndicator');
+    
     if (grid && playlists) {
-        console.log('Rendering playlists:', playlists.length);
+        console.log('✅ Rendering playlists:', playlists.length);
+        if (loadingIndicator) loadingIndicator.remove();
         grid.innerHTML = playlists.map(playlist => createPlaylistCard(playlist)).join('');
+        console.log('✅ Playlists rendered successfully');
     } else {
-        console.error('Grid or playlists not found:', { grid: !!grid, playlists: !!playlists, playlistCount: playlists?.length });
+        console.error('❌ Grid or playlists not found:', { 
+            grid: !!grid, 
+            playlists: !!playlists, 
+            playlistCount: playlists?.length,
+            gridId: grid?.id,
+            playlistsType: typeof playlists
+        });
+        if (loadingIndicator) {
+            loadingIndicator.textContent = 'Error loading playlists. Check console for details.';
+            loadingIndicator.className = 'col-span-full text-center py-8 text-red-500';
+        }
     }
 }
 
