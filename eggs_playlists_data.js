@@ -1,6 +1,260 @@
 // EGGS Radio playlist data - Auto-generated
 const playlists = [
     {
+        "id": "eggs-jazz-it-up",
+        "title": "EGGS • Jazz it up",
+        "description": "Auto-generated playlist for theme: Jazz it up",
+        "theme": "Jazz it up",
+        "songCount": 30,
+        "duration": 110,
+        "spotifyId": "1VPTg5zEznOfvWmCRax257",
+        "spotifyUrl": "https://open.spotify.com/playlist/1VPTg5zEznOfvWmCRax257",
+        "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0234190c904a52720a3ffcad76ab67616d00001e02a3d4884d3433efed2c4a0563ab67616d00001e02bbe653db27f7711379f92fc5ab67616d00001e02f2af4d15ee5e0901a3c9ae51",
+        "lastUpdated": "AAAAAawfSfN6Jrv3a8XAq9/2J2s8FODw",
+        "tracks": [
+            {
+                "name": "It's Easy To Remember",
+                "artist": "John Coltrane Quartet",
+                "album": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+                "duration": 165,
+                "spotifyId": "1lZ41PumDFX0e82XTGx4sE",
+                "previewUrl": null
+            },
+            {
+                "name": "Visa från Utanmyra",
+                "artist": "Jan Johansson",
+                "album": "Jazz på svenska",
+                "duration": 273,
+                "spotifyId": "1CRxANVlNyN2IYjarx96gU",
+                "previewUrl": null
+            },
+            {
+                "name": "All Of Me",
+                "artist": "Swell Session, Mark de Clive-Lowe, Anni Elif",
+                "album": "Swell Communications",
+                "duration": 413,
+                "spotifyId": "3ofab95C19VrH7LlxRTBP6",
+                "previewUrl": null
+            },
+            {
+                "name": "Moonlight In Vermont",
+                "artist": "Ella Fitzgerald",
+                "album": "Lady Ella Sings, Vol. 2",
+                "duration": 219,
+                "spotifyId": "0ywgLRI6kvbQKhtswS9wxH",
+                "previewUrl": null
+            },
+            {
+                "name": "If I Had You",
+                "artist": "Etta Jones",
+                "album": "The Best Of Etta Jones: The Prestige Singles (Remastered)",
+                "duration": 229,
+                "spotifyId": "5LW3V50XwYsYstZtJrufJt",
+                "previewUrl": null
+            },
+            {
+                "name": "Blue Moon",
+                "artist": "Julie London",
+                "album": "The Very Best Of Julie London",
+                "duration": 151,
+                "spotifyId": "5DIwnmaaxVvrAStUgvpt68",
+                "previewUrl": null
+            },
+            {
+                "name": "How Little We Know",
+                "artist": "Susannah McCorkle",
+                "album": "The Songs Of Johnny Mercer",
+                "duration": 220,
+                "spotifyId": "0PH9BOy0zeIuxiDuaUYl4P",
+                "previewUrl": null
+            },
+            {
+                "name": "A Taste of Honey - Live",
+                "artist": "Paul Desmond",
+                "album": "Greatest Hits Series--Paul Desmond",
+                "duration": 271,
+                "spotifyId": "6PdC87pNlAOBZFRVhk2c3Q",
+                "previewUrl": null
+            },
+            {
+                "name": "Old Cape Cod",
+                "artist": "Patti Page",
+                "album": "16 Most Requested Songs",
+                "duration": 187,
+                "spotifyId": "1H625U2yTSLAEZrHFasZ3b",
+                "previewUrl": null
+            },
+            {
+                "name": "Old Devil Moon",
+                "artist": "Chet Baker",
+                "album": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+                "duration": 178,
+                "spotifyId": "0hdNrtu4z3lHfP4YQOZUny",
+                "previewUrl": null
+            },
+            {
+                "name": "Personality",
+                "artist": "Johnny Mercer, The Pied Pipers",
+                "album": "Capitol Collectors Series",
+                "duration": 168,
+                "spotifyId": "1gYtukp7yVkN3ySY0yyVRI",
+                "previewUrl": null
+            },
+            {
+                "name": "Sakta vi gå genom stan",
+                "artist": "Monica Zetterlund",
+                "album": "Monica Zetterlund/Musik vi minns",
+                "duration": 199,
+                "spotifyId": "6v6KRuPie9HjtfF9MVjAr7",
+                "previewUrl": null
+            },
+            {
+                "name": "It Could Happen to You",
+                "artist": "Chet Baker",
+                "album": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+                "duration": 173,
+                "spotifyId": "2I3AxLXcXcat2ZpNXrhXXY",
+                "previewUrl": null
+            },
+            {
+                "name": "A Summer Place",
+                "artist": "Andy Williams",
+                "album": "Moon River And Other Great Movie Themes",
+                "duration": 154,
+                "spotifyId": "71kwIDWJ0xClRjxvIey6D0",
+                "previewUrl": null
+            },
+            {
+                "name": "Orange Colored Sky - As Heard on “Fallout” (Series)",
+                "artist": "Nat King Cole",
+                "album": "The Nat King Cole Story",
+                "duration": 153,
+                "spotifyId": "6fUDNcmsnnUVyOtEnA9xdC",
+                "previewUrl": null
+            },
+            {
+                "name": "You Go to My Head - Take 1",
+                "artist": "Billie Holiday",
+                "album": "Billie Holiday Love Songs",
+                "duration": 169,
+                "spotifyId": "0JmzzjoM5HWgdEQxe58jNf",
+                "previewUrl": null
+            },
+            {
+                "name": "(I Love You) For Sentimental Reasons",
+                "artist": "Nat King Cole",
+                "album": "The Nat King Cole Story",
+                "duration": 184,
+                "spotifyId": "5QnCtH7euld6R68UwcWrte",
+                "previewUrl": null
+            },
+            {
+                "name": "Rull",
+                "artist": "Tord Gustavsen, Jarle Vespestad",
+                "album": "What Was Said",
+                "duration": 182,
+                "spotifyId": "2VsoN3R40x61sMuCJeMbiV",
+                "previewUrl": null
+            },
+            {
+                "name": "Kossa Kossa",
+                "artist": "The Souljazz Orchestra",
+                "album": "Resistance",
+                "duration": 248,
+                "spotifyId": "1SOaZNCmlfFcpDqjKQqJX4",
+                "previewUrl": null
+            },
+            {
+                "name": "Emaline",
+                "artist": "Zoot Sims",
+                "album": "Suddenly It's Spring",
+                "duration": 350,
+                "spotifyId": "4NFanHPIcu0ME27Be3Oe5e",
+                "previewUrl": null
+            },
+            {
+                "name": "Chicago",
+                "artist": "Benny Goodman",
+                "album": "The Best Of Benny Goodman",
+                "duration": 179,
+                "spotifyId": "5TjO0GOOon3R6YOnRFPwzk",
+                "previewUrl": null
+            },
+            {
+                "name": "Les Etoiles",
+                "artist": "Melody Gardot",
+                "album": "My One And Only Thrill",
+                "duration": 200,
+                "spotifyId": "1ydWjBQJxvmzGnTaSvETus",
+                "previewUrl": null
+            },
+            {
+                "name": "Perfidia",
+                "artist": "Nat King Cole",
+                "album": "A Mis Amigos",
+                "duration": 140,
+                "spotifyId": "3QQl3tSiEooVLQvC8IT5EE",
+                "previewUrl": null
+            },
+            {
+                "name": "Yègellé Tezeta",
+                "artist": "Mulatu Astatke",
+                "album": "New York - Addis - London: The Story of Ethio Jazz 1965-1975",
+                "duration": 194,
+                "spotifyId": "0fxjsll9jmmRgMFbwdp4Xg",
+                "previewUrl": null
+            },
+            {
+                "name": "Lunar Invasion",
+                "artist": "The Silhouettes",
+                "album": "Conversations With The Silhouettes",
+                "duration": 333,
+                "spotifyId": "3ut08gHhj0sgX0MdKiiBQM",
+                "previewUrl": null
+            },
+            {
+                "name": "God Bless The Child",
+                "artist": "Billie Holiday",
+                "album": "The Lady Sings",
+                "duration": 190,
+                "spotifyId": "2xtC6kb6H26qVX4ZdncS7f",
+                "previewUrl": null
+            },
+            {
+                "name": "Four Women",
+                "artist": "Nina Simone",
+                "album": "Wild Is The Wind",
+                "duration": 264,
+                "spotifyId": "7urjzeGBtfHdwWmfYJjdAp",
+                "previewUrl": null
+            },
+            {
+                "name": "The Girl From Ipanema",
+                "artist": "Stan Getz",
+                "album": "Getz/Gilberto (Expanded Edition)",
+                "duration": 320,
+                "spotifyId": "7znjbX9XdoQayIrVNdd50Z",
+                "previewUrl": null
+            },
+            {
+                "name": "Continuum 6",
+                "artist": "Nala Sinephro",
+                "album": "Endlessness",
+                "duration": 274,
+                "spotifyId": "2xjL6P7IdiBJ6M2rzzaqHR",
+                "previewUrl": null
+            },
+            {
+                "name": "'Round Midnight",
+                "artist": "Adam Blackstone, Jazmine Sullivan",
+                "album": "Legacy",
+                "duration": 252,
+                "spotifyId": "1MkiFsxFXCtrQT6EJc84jR",
+                "previewUrl": null
+            }
+        ]
+    },
+    {
         "id": "eggs-cozy-songs-to-listen-when-it-rains-outside",
         "title": "EGGS • Cozy songs to listen when it rains outside",
         "description": "Auto-generated playlist for theme: Cozy songs to listen when it rains outside",
@@ -10,7 +264,7 @@ const playlists = [
         "spotifyId": "1nKX7mOa50osM2hAXbIKxF",
         "spotifyUrl": "https://open.spotify.com/playlist/1nKX7mOa50osM2hAXbIKxF",
         "coverImage": "https://mosaic.scdn.co/640/ab67616d00001e0212b7374453d8463c512f726eab67616d00001e02628dba01c669d89586967dc5ab67616d00001e02ae154b5fbf59dee01fa1ad14ab67616d00001e02e8f427e22592b343cd3108a6",
-        "lastUpdated": "AAAAAY8eI2fwEQxhLkGJipr+SevpKTj/",
+        "lastUpdated": "AAAAAu0UZsXapE5KgYtSRzDPh/c5JIxX",
         "tracks": [
             {
                 "name": "Banana Pancakes",
@@ -494,7 +748,7 @@ const playlists = [
                 "name": "Ain't No Sunshine",
                 "artist": "Bill Withers",
                 "album": "Just As I Am",
-                "duration": 125,
+                "duration": 126,
                 "spotifyId": "1k1Bqnv2R0uJXQN4u6LKYt",
                 "previewUrl": null
             },
@@ -1504,7 +1758,7 @@ const playlists = [
                 "name": "The Promised Land",
                 "artist": "Bruce Springsteen",
                 "album": "Darkness On the Edge of Town",
-                "duration": 268,
+                "duration": 269,
                 "spotifyId": "2KQq1pn2eUDEFitdQ4WzzZ",
                 "previewUrl": null
             },
@@ -1544,7 +1798,7 @@ const playlists = [
                 "name": "Echoes",
                 "artist": "Pink Floyd",
                 "album": "Meddle",
-                "duration": 1412,
+                "duration": 1413,
                 "spotifyId": "7kriFJLY2KOhw5en9iI2jb",
                 "previewUrl": null
             },
@@ -1592,7 +1846,7 @@ const playlists = [
                 "name": "Dogs",
                 "artist": "Pink Floyd",
                 "album": "Animals",
-                "duration": 1025,
+                "duration": 1024,
                 "spotifyId": "2jvuMDqBK04WvCYYz5qjvG",
                 "previewUrl": null
             },
@@ -1608,7 +1862,7 @@ const playlists = [
                 "name": "Ballad of a Thin Man",
                 "artist": "Bob Dylan",
                 "album": "Highway 61 Revisited",
-                "duration": 356,
+                "duration": 357,
                 "spotifyId": "0f5N14nB8xi0p3o4BlVvbx",
                 "previewUrl": null
             },
@@ -2186,7 +2440,7 @@ const playlists = [
                 "name": "Atlantic City",
                 "artist": "Bruce Springsteen",
                 "album": "Nebraska",
-                "duration": 236,
+                "duration": 240,
                 "spotifyId": "1Vp8U39YNsDfd6yVuaUq12",
                 "previewUrl": null
             },
@@ -2888,7 +3142,7 @@ const playlists = [
                 "name": "Give It Up",
                 "artist": "KC & The Sunshine Band",
                 "album": "All In a Night's Work (Expanded Version)",
-                "duration": 254,
+                "duration": 253,
                 "spotifyId": "3yDhZq8f17SmumVmEyCaRN",
                 "previewUrl": null
             },
@@ -2998,7 +3252,7 @@ const playlists = [
                 "name": "Poison",
                 "artist": "Alice Cooper",
                 "album": "Trash",
-                "duration": 270,
+                "duration": 269,
                 "spotifyId": "5XcZRgJv3zMhTqCyESjQrF",
                 "previewUrl": null
             },
@@ -3006,7 +3260,7 @@ const playlists = [
                 "name": "Don't Stop 'Til You Get Enough - 2003 Edit",
                 "artist": "Michael Jackson",
                 "album": "Number Ones",
-                "duration": 236,
+                "duration": 237,
                 "spotifyId": "1HRtVWNhS9tEvDQyOKD9Fs",
                 "previewUrl": null
             },
@@ -3318,7 +3572,7 @@ const playlists = [
                 "name": "9 to 5",
                 "artist": "Dolly Parton",
                 "album": "9 To 5 And Odd Jobs",
-                "duration": 162,
+                "duration": 166,
                 "spotifyId": "4w3tQBXhn5345eUXDGBWZG",
                 "previewUrl": null
             },
@@ -3945,7 +4199,7 @@ const playlists = [
         "duration": 67,
         "spotifyId": "0DxGWeDJWAU9EybNGzxrvm",
         "spotifyUrl": "https://open.spotify.com/playlist/0DxGWeDJWAU9EybNGzxrvm",
-        "coverImage": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8441c0fc1268a987d2ba69dce9",
+        "coverImage": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8441c0fc1268a987d2ba69dce9",
         "lastUpdated": "AAAABBCU/hLY8vperS+M2A+/MUjFHHOD",
         "tracks": [
             {
@@ -4166,7 +4420,7 @@ const playlists = [
                 "name": "Christmas (Baby Please Come Home)",
                 "artist": "Darlene Love",
                 "album": "A Christmas Gift For You From Phil Spector",
-                "duration": 166,
+                "duration": 170,
                 "spotifyId": "46pF1zFimM582ss1PrMy68",
                 "previewUrl": null
             },
@@ -4586,7 +4840,7 @@ const playlists = [
                 "name": "State Trooper",
                 "artist": "Bruce Springsteen",
                 "album": "Nebraska",
-                "duration": 191,
+                "duration": 197,
                 "spotifyId": "1Ulh5rWbhhV3PltDadTBZC",
                 "previewUrl": null
             },
@@ -4706,7 +4960,7 @@ const playlists = [
                 "name": "Baby Driver",
                 "artist": "Simon & Garfunkel",
                 "album": "Bridge Over Troubled Water",
-                "duration": 195,
+                "duration": 197,
                 "spotifyId": "5Bh8l8evdBSIoaK6EP1bWI",
                 "previewUrl": null
             },
