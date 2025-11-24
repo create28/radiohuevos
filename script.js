@@ -1,4 +1,6 @@
 // EGGS Radio playlist data - Auto-generated
+// Last updated: 2025-01-27 - 21 playlists (586 songs)
+// Version: 070145c
 const playlists = [
     {
         "id": "eggs-jazz-it-up",
@@ -5028,7 +5030,10 @@ function createPlaylistCard(playlist) {
 function renderPlaylists() {
     const grid = document.getElementById('playlistsGrid');
     if (grid && playlists) {
+        console.log('Rendering playlists:', playlists.length);
         grid.innerHTML = playlists.map(playlist => createPlaylistCard(playlist)).join('');
+    } else {
+        console.error('Grid or playlists not found:', { grid: !!grid, playlists: !!playlists, playlistCount: playlists?.length });
     }
 }
 
