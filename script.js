@@ -1,6 +1,7 @@
 // EGGS Radio playlist data - Auto-generated
 // Last updated: 2025-01-27 - 21 playlists (586 songs)
 // Version: 070145c
+console.log('🎵 script.js loaded successfully!');
 const playlists = [
     {
         "id": "eggs-jazz-it-up",
@@ -4984,7 +4985,7 @@ const playlists = [
             }
         ]
     }
-];
+]; // End of playlists array
 
 // Export for use in other scripts
 if (typeof module !== 'undefined' && module.exports) {
@@ -5038,7 +5039,20 @@ function renderPlaylists() {
 }
 
 // Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', renderPlaylists);
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM loaded, initializing playlists...');
+    console.log('Playlists array exists:', typeof playlists !== 'undefined');
+    console.log('Playlists count:', typeof playlists !== 'undefined' ? playlists.length : 'N/A');
+    renderPlaylists();
+});
+
+// Also try immediately if DOM is already loaded
+if (document.readyState === 'loading') {
+    console.log('Document still loading, waiting for DOMContentLoaded...');
+} else {
+    console.log('Document already loaded, rendering immediately...');
+    renderPlaylists();
+}
 
 // Create EGGSRadio namespace for playlist detail page
 window.EGGSRadio = {
